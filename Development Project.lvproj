@@ -22,8 +22,6 @@
 		<Item Name="Assert_API" Type="Folder" URL="/C/Users/Public/Documents/Assert_API">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Assert Values.ctl" Type="VI" URL="../AssertEngine/AssertEngine/Assert Values.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
