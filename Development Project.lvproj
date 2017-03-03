@@ -13,7 +13,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="lvlib&apos;s" Type="Folder">
 			<Item Name="AssertEngine.lvlib" Type="Library" URL="../AssertEngine/AssertEngine.lvlib"/>
-			<Item Name="ErrorHandler.lvlib" Type="Library" URL="../ErrorHandler/ErrorHandler.lvlib"/>
 			<Item Name="UserInterface.lvlib" Type="Library" URL="../UserInterface/UserInterface.lvlib"/>
 		</Item>
 		<Item Name="Tools" Type="Folder">
@@ -24,6 +23,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Assert Values.ctl" Type="VI" URL="../AssertEngine/AssertEngine/Assert Values.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
@@ -41,6 +41,7 @@
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Report Error Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Report Error Msg/Report Error Msg.lvclass"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 		</Item>

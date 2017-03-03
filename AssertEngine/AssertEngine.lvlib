@@ -9,14 +9,21 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="ExtMsgQueue" Type="Folder">
 		<Item Name="Classes" Type="Folder">
+			<Item Name="Children" Type="Folder">
+				<Item Name="Input.lvclass" Type="LVClass" URL="../External Message Queue/Classes/Input/Input.lvclass"/>
+				<Item Name="Stop Helper.lvclass" Type="LVClass" URL="../External Message Queue/Classes/Stop/Stop Helper.lvclass"/>
+			</Item>
 			<Item Name="External Msg.lvclass" Type="LVClass" URL="../External Message Queue/Classes/External Msg.lvclass"/>
 		</Item>
 		<Item Name="Get Queue Reference.vi" Type="VI" URL="../External Message Queue/Get Queue Reference.vi"/>
 		<Item Name="Run Display.vi" Type="VI" URL="../External Message Queue/Run Display.vi"/>
 	</Item>
 	<Item Name="Log Assert" Type="Folder">
+		<Item Name="Assert Data.ctl" Type="VI" URL="../Log Assert/Assert Data.ctl"/>
 		<Item Name="Log Assert Core.vi" Type="VI" URL="../Log Assert/Log Assert Core.vi"/>
 	</Item>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Update Assert Data Msg.lvclass" Type="LVClass" URL="../AssertEngine Messages/Update Assert Data Msg/Update Assert Data Msg.lvclass"/>
+	</Item>
 	<Item Name="AssertEngine.lvclass" Type="LVClass" URL="../AssertEngine/AssertEngine.lvclass"/>
 </Library>
