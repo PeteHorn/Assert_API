@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Change Panel State Msg.lvclass" Type="LVClass" URL="../UserInterface Messages/Change Panel State Msg/Change Panel State Msg.lvclass"/>
+		<Item Name="Draw Assert Data Msg.lvclass" Type="LVClass" URL="../UserInterface Messages/Draw Assert Data Msg/Draw Assert Data Msg.lvclass"/>
+	</Item>
 	<Item Name="UserInterface.lvclass" Type="LVClass" URL="../UserInterface/UserInterface.lvclass"/>
 </Library>
