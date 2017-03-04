@@ -14,6 +14,7 @@
 		<Item Name="Core" Type="Folder">
 			<Item Name="AssertEngine.lvlib" Type="Library" URL="../Core/AssertEngine/AssertEngine.lvlib"/>
 			<Item Name="UserInterface.lvlib" Type="Library" URL="../Core/UserInterface/UserInterface.lvlib"/>
+			<Item Name="UI Settings.lvlib" Type="Library" URL="../Core/UI Settings/UI Settings.lvlib"/>
 		</Item>
 		<Item Name="Tools" Type="Folder">
 			<Item Name="Config File Builder UI.vi" Type="VI" URL="../Tools/Config File Builder/Config File Builder UI.vi"/>
@@ -43,6 +44,7 @@
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Report Error Msg.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/ActorFramework/Report Error Msg/Report Error Msg.lvclass"/>
+				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 		</Item>
