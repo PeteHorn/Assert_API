@@ -11,15 +11,18 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="lvlib&apos;s" Type="Folder">
-			<Item Name="AssertEngine.lvlib" Type="Library" URL="../AssertEngine/AssertEngine.lvlib"/>
-			<Item Name="UserInterface.lvlib" Type="Library" URL="../UserInterface/UserInterface.lvlib"/>
+		<Item Name="Core" Type="Folder">
+			<Item Name="AssertEngine.lvlib" Type="Library" URL="../Core/AssertEngine/AssertEngine.lvlib"/>
+			<Item Name="UserInterface.lvlib" Type="Library" URL="../Core/UserInterface/UserInterface.lvlib"/>
 		</Item>
 		<Item Name="Tools" Type="Folder">
 			<Item Name="Config File Builder UI.vi" Type="VI" URL="../Tools/Config File Builder/Config File Builder UI.vi"/>
 			<Item Name="UI Mode.ctl" Type="VI" URL="../Tools/Config File Builder/UI Mode.ctl"/>
 		</Item>
 		<Item Name="Assert_API" Type="Folder" URL="/C/Users/Public/Documents/Assert_API">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Test Asserts" Type="Folder" URL="../Test Asserts">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
