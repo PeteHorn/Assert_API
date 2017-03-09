@@ -8,6 +8,7 @@
 		<Item Name="Change Panel State Msg.lvclass" Type="LVClass" URL="../UserInterface Messages/Change Panel State Msg/Change Panel State Msg.lvclass"/>
 		<Item Name="Display Right Click Menu Msg.lvclass" Type="LVClass" URL="../UserInterface Messages/Display Right Click Menu Msg/Display Right Click Menu Msg.lvclass"/>
 		<Item Name="Draw Assert Data Msg.lvclass" Type="LVClass" URL="../UserInterface Messages/Draw Assert Data Msg/Draw Assert Data Msg.lvclass"/>
+		<Item Name="Set Column Order Msg.lvclass" Type="LVClass" URL="../UserInterface Messages/Set Column Order Msg/Set Column Order Msg.lvclass"/>
 	</Item>
 	<Item Name="UserInterface.lvclass" Type="LVClass" URL="../UserInterface/UserInterface.lvclass"/>
 </Library>
