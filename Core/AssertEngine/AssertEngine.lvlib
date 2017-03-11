@@ -19,6 +19,32 @@
 		<Item Name="Get Queue Reference.vi" Type="VI" URL="../External Message Queue/Get Queue Reference.vi"/>
 		<Item Name="Run Display.vi" Type="VI" URL="../External Message Queue/Run Display.vi"/>
 	</Item>
+	<Item Name="Failure Actions" Type="Folder">
+		<Item Name="Classes" Type="Folder">
+			<Item Name="Children" Type="Folder">
+				<Item Name="Abort Application" Type="Folder">
+					<Item Name="Abort Application.lvclass" Type="LVClass" URL="../Failure Actions/Abort Application/Abort Application.lvclass"/>
+				</Item>
+				<Item Name="Log To File" Type="Folder">
+					<Item Name="Log To File.lvclass" Type="LVClass" URL="../Failure Actions/Log To File/Log To File.lvclass"/>
+				</Item>
+				<Item Name="Pause Execution" Type="Folder">
+					<Item Name="Pause Execution.lvclass" Type="LVClass" URL="../Failure Actions/Pause Execution/Pause Execution.lvclass"/>
+				</Item>
+			</Item>
+			<Item Name="Failure Action.lvclass" Type="LVClass" URL="../Failure Actions/Failure Action.lvclass"/>
+		</Item>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Failure Action FGV TypeDef.ctl" Type="VI" URL="../Failure Actions/Failure Action FGV TypeDef.ctl"/>
+			<Item Name="Failure Action Lookup Table TypeDef.ctl" Type="VI" URL="../Failure Actions/Failure Action Lookup Table TypeDef.ctl"/>
+		</Item>
+		<Item Name="VIs" Type="Folder">
+			<Item Name="Get Failure Action Event References.vi" Type="VI" URL="../Failure Actions/Get Failure Action Event References.vi"/>
+			<Item Name="Get Failure Action Queue References.vi" Type="VI" URL="../Failure Actions/Get Failure Action Queue References.vi"/>
+			<Item Name="Get Failure Action References.vi" Type="VI" URL="../Failure Actions/Get Failure Action References.vi"/>
+			<Item Name="Handle Failure Action Change Event.vi" Type="VI" URL="../Failure Actions/Handle Failure Action Change Event.vi"/>
+		</Item>
+	</Item>
 	<Item Name="Log Assert" Type="Folder">
 		<Item Name="Assert Data.ctl" Type="VI" URL="../Log Assert/Assert Data.ctl"/>
 		<Item Name="Log Assert Core.vi" Type="VI" URL="../Log Assert/Log Assert Core.vi"/>
