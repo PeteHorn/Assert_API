@@ -55,6 +55,7 @@
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Update Assert Data Msg.lvclass" Type="LVClass" URL="../AssertEngine Messages/Update Assert Data Msg/Update Assert Data Msg.lvclass"/>
+		<Item Name="Update Assert Failure Action Msg.lvclass" Type="LVClass" URL="../AssertEngine Messages/Update Assert Failure Action Msg/Update Assert Failure Action Msg.lvclass"/>
 	</Item>
 	<Item Name="AssertEngine.lvclass" Type="LVClass" URL="../AssertEngine/AssertEngine.lvclass"/>
 </Library>
