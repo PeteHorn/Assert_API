@@ -37,6 +37,7 @@
 		<Item Name="Controls" Type="Folder">
 			<Item Name="Failure Action FGV TypeDef.ctl" Type="VI" URL="../Failure Actions/Failure Action FGV TypeDef.ctl"/>
 			<Item Name="Failure Action Lookup Table TypeDef.ctl" Type="VI" URL="../Failure Actions/Failure Action Lookup Table TypeDef.ctl"/>
+			<Item Name="Failure Action References.ctl" Type="VI" URL="../Failure Actions/Failure Action References.ctl"/>
 		</Item>
 		<Item Name="VIs" Type="Folder">
 			<Item Name="Get Failure Action Event References.vi" Type="VI" URL="../Failure Actions/Get Failure Action Event References.vi"/>

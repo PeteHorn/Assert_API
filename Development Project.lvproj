@@ -31,7 +31,6 @@
 		<Item Name="PoCs" Type="Folder" URL="../PoCs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Failure Action References.ctl" Type="VI" URL="../Core/AssertEngine/Failure Actions/Failure Action References.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
