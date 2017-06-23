@@ -4,9 +4,18 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Component Actors" Type="Folder">
+		<Item Name="Children" Type="Folder">
+			<Item Name="Filter Config Display.lvlib" Type="Library" URL="../../Filter Config Display/Filter Config Display.lvlib"/>
+			<Item Name="Main Display.lvlib" Type="Library" URL="../../Main Display/Main Display.lvlib"/>
+			<Item Name="Service Config Display.lvlib" Type="Library" URL="../../Service Config Display/Service Config Display.lvlib"/>
+		</Item>
+		<Item Name="Base UI Component.lvlib" Type="Library" URL="../../Base UI Component/Base UI Component.lvlib"/>
+	</Item>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Change Screen Msg.lvclass" Type="LVClass" URL="../Assert Display Messages/Change Screen Msg/Change Screen Msg.lvclass">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		</Item>
+	</Item>
 	<Item Name="Assert Display.lvclass" Type="LVClass" URL="../Assert Display/Assert Display.lvclass"/>
-	<Item Name="Filter Config Display.lvlib" Type="Library" URL="../../Filter Config Display/Filter Config Display.lvlib"/>
-	<Item Name="Main Display.lvlib" Type="Library" URL="../../Main Display/Main Display.lvlib"/>
-	<Item Name="Service Config Display.lvlib" Type="Library" URL="../../Service Config Display/Service Config Display.lvlib"/>
 </Library>
