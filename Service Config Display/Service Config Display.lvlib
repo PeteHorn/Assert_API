@@ -6,6 +6,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Add New Service Msg.lvclass" Type="LVClass" URL="../Service Config Display Messages/Add New Service Msg/Add New Service Msg.lvclass"/>
+		<Item Name="Remove Named Service Msg.lvclass" Type="LVClass" URL="../Service Config Display Messages/Remove Named Service Msg/Remove Named Service Msg.lvclass"/>
+	</Item>
 	<Item Name="Service Config Display.lvclass" Type="LVClass" URL="../Service Config Display/Service Config Display.lvclass"/>
 </Library>
