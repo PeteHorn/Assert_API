@@ -6,6 +6,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Create UDP Service Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Create UDP Service Msg/Create UDP Service Msg.lvclass"/>
+	</Item>
 	<Item Name="Main Display.lvclass" Type="LVClass" URL="../Main Display/Main Display.lvclass"/>
 </Library>

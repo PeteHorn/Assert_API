@@ -12,10 +12,16 @@
 		</Item>
 		<Item Name="Base UI Component.lvlib" Type="Library" URL="../../Base UI Component/Base UI Component.lvlib"/>
 	</Item>
+	<Item Name="Display Components" Type="Folder">
+		<Item Name="Item Configuration.ctl" Type="VI" URL="../Assert Display/Item Configuration.ctl"/>
+		<Item Name="Items.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Items.ctl"/>
+		<Item Name="Service Details.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Service Details.ctl"/>
+	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Change Screen Msg.lvclass" Type="LVClass" URL="../Assert Display Messages/Change Screen Msg/Change Screen Msg.lvclass">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
+		<Item Name="New Item Msg.lvclass" Type="LVClass" URL="../Assert Display Messages/New Item Msg/New Item Msg.lvclass"/>
 	</Item>
 	<Item Name="Assert Display.lvclass" Type="LVClass" URL="../Assert Display/Assert Display.lvclass"/>
 </Library>
