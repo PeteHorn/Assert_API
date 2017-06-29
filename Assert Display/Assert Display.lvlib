@@ -5,12 +5,17 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Component Actors" Type="Folder">
-		<Item Name="Children" Type="Folder">
-			<Item Name="Filter Config Display.lvlib" Type="Library" URL="../../Filter Config Display/Filter Config Display.lvlib"/>
-			<Item Name="Main Display.lvlib" Type="Library" URL="../../Main Display/Main Display.lvlib"/>
-			<Item Name="Service Config Display.lvlib" Type="Library" URL="../../Service Config Display/Service Config Display.lvlib"/>
+		<Item Name="SubPanel UI&apos;s" Type="Folder">
+			<Item Name="Children" Type="Folder">
+				<Item Name="Filter Config Display.lvlib" Type="Library" URL="../../Filter Config Display/Filter Config Display.lvlib"/>
+				<Item Name="Main Display.lvlib" Type="Library" URL="../../Main Display/Main Display.lvlib"/>
+				<Item Name="Service Config Display.lvlib" Type="Library" URL="../../Service Config Display/Service Config Display.lvlib"/>
+			</Item>
+			<Item Name="Base UI Component.lvlib" Type="Library" URL="../../Base UI Component/Base UI Component.lvlib"/>
 		</Item>
-		<Item Name="Base UI Component.lvlib" Type="Library" URL="../../Base UI Component/Base UI Component.lvlib"/>
+		<Item Name="Timing Engine" Type="Folder">
+			<Item Name="Timing Engine.lvlib" Type="Library" URL="../../Timing Engine/Timing Engine.lvlib"/>
+		</Item>
 	</Item>
 	<Item Name="Display Components" Type="Folder">
 		<Item Name="Item Configuration.ctl" Type="VI" URL="../Assert Display/Item Configuration.ctl"/>
