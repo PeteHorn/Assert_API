@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Launch New Display Msg.lvclass" Type="LVClass" URL="../Assert Startup UI Messages/Launch New Display Msg/Launch New Display Msg.lvclass"/>
+	</Item>
 	<Item Name="Assert Startup UI.lvclass" Type="LVClass" URL="../Assert Startup UI/Assert Startup UI.lvclass"/>
 </Library>
