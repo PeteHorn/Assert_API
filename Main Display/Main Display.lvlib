@@ -8,6 +8,8 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Create UDP Service Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Create UDP Service Msg/Create UDP Service Msg.lvclass"/>
+		<Item Name="Do Action Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Do Action Msg/Do Action Msg.lvclass"/>
+		<Item Name="New Assert Message Msg.lvclass" Type="LVClass" URL="../Main Display Messages/New Assert Message Msg/New Assert Message Msg.lvclass"/>
 	</Item>
 	<Item Name="Main Display.lvclass" Type="LVClass" URL="../Main Display/Main Display.lvclass"/>
 </Library>

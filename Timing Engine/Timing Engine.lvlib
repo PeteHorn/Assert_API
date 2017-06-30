@@ -6,6 +6,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Timer Update Msg.lvclass" Type="LVClass" URL="../Timing Engine Messages/Timer Update Msg/Timer Update Msg.lvclass"/>
+	</Item>
 	<Item Name="Timing Engine.lvclass" Type="LVClass" URL="../Timing Engine/Timing Engine.lvclass"/>
 </Library>
