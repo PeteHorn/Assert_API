@@ -6,18 +6,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Display Configuration" Type="Folder">
-		<Item Name="Standard" Type="Folder">
-			<Item Name="Standard Display Configuration.lvclass" Type="LVClass" URL="../Display Configurations/Standard Display Configuration/Standard Display Configuration.lvclass"/>
-		</Item>
-		<Item Name="Base Display Configuration.lvclass" Type="LVClass" URL="../Display Configurations/Base Display Configuration.lvclass"/>
-	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
-		<Item Name="Create UDP Service Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Create UDP Service Msg/Create UDP Service Msg.lvclass"/>
-		<Item Name="Do Action Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Do Action Msg/Do Action Msg.lvclass"/>
-		<Item Name="Launch Single Assert Display Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Launch Single Assert Display Msg/Launch Single Assert Display Msg.lvclass"/>
-		<Item Name="New Assert Message Msg.lvclass" Type="LVClass" URL="../Main Display Messages/New Assert Message Msg/New Assert Message Msg.lvclass"/>
-		<Item Name="Update UI Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Update UI Msg/Update UI Msg.lvclass"/>
+		<Item Name="New Assert Message Msg.lvclass" Type="LVClass" URL="../Single Assert Display Messages/New Assert Message Msg/New Assert Message Msg.lvclass"/>
 	</Item>
-	<Item Name="Main Display.lvclass" Type="LVClass" URL="../Main Display/Main Display.lvclass"/>
+	<Item Name="Single Assert Display.lvclass" Type="LVClass" URL="../Single Assert Display/Single Assert Display.lvclass"/>
 </Library>

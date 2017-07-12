@@ -7,6 +7,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Component Actors" Type="Folder">
+		<Item Name="Single Assert Display" Type="Folder">
+			<Item Name="Single Assert Display.lvlib" Type="Library" URL="../../Single Assert Display/Single Assert Display.lvlib"/>
+		</Item>
 		<Item Name="SubPanel UI&apos;s" Type="Folder">
 			<Item Name="Children" Type="Folder">
 				<Item Name="Filter Config Display.lvlib" Type="Library" URL="../../Filter Config Display/Filter Config Display.lvlib"/>
