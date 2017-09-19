@@ -9,6 +9,9 @@
 		<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		<Item Name="VI References.ctl" Type="VI" URL="../VI References.ctl"/>
 	</Item>
+	<Item Name="Configuration" Type="Folder">
+		<Item Name="Assert API Configuration.ini" Type="Document" URL="../../Configuration/Assert API Configuration.ini"/>
+	</Item>
 	<Item Name="Libraries" Type="Folder">
 		<Item Name="Assert Display.lvlib" Type="Library" URL="../../Assert Display/Assert Display.lvlib"/>
 		<Item Name="Assert Startup UI.lvlib" Type="Library" URL="../../Assert Startup UI/Assert Startup UI.lvlib"/>
