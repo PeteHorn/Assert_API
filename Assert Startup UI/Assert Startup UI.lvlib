@@ -8,6 +8,7 @@
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Dock or Undock Msg.lvclass" Type="LVClass" URL="../Assert Startup UI Messages/Dock or Undock Msg/Dock or Undock Msg.lvclass"/>
 		<Item Name="Launch New Display Msg.lvclass" Type="LVClass" URL="../Assert Startup UI Messages/Launch New Display Msg/Launch New Display Msg.lvclass"/>
 	</Item>
 	<Item Name="Assert Startup UI.lvclass" Type="LVClass" URL="../Assert Startup UI/Assert Startup UI.lvclass"/>
