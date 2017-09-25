@@ -17,7 +17,6 @@
 		<Item Name="Do Action Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Do Action Msg/Do Action Msg.lvclass"/>
 		<Item Name="New Assert Message Msg.lvclass" Type="LVClass" URL="../Main Display Messages/New Assert Message Msg/New Assert Message Msg.lvclass"/>
 		<Item Name="Set Active Assert Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Set Active Assert Msg/Set Active Assert Msg.lvclass"/>
-		<Item Name="Update Tipstrip Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Update Tipstrip Msg/Update Tipstrip Msg.lvclass"/>
 		<Item Name="Update UI Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Update UI Msg/Update UI Msg.lvclass"/>
 	</Item>
 	<Item Name="Main Display.lvclass" Type="LVClass" URL="../Main Display/Main Display.lvclass"/>
