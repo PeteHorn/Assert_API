@@ -19,5 +19,11 @@
 		<Item Name="Set Active Assert Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Set Active Assert Msg/Set Active Assert Msg.lvclass"/>
 		<Item Name="Update UI Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Update UI Msg/Update UI Msg.lvclass"/>
 	</Item>
+	<Item Name="Right Click Menu Actions" Type="Folder">
+		<Item Name="Change Column Header" Type="Folder">
+			<Item Name="Change Column Header.lvclass" Type="LVClass" URL="../Right Click Menu Actions/Change Column Header/Change Column Header.lvclass"/>
+		</Item>
+		<Item Name="RCM_Actions.lvclass" Type="LVClass" URL="../Right Click Menu Actions/RCM_Actions.lvclass"/>
+	</Item>
 	<Item Name="Main Display.lvclass" Type="LVClass" URL="../Main Display/Main Display.lvclass"/>
 </Library>
