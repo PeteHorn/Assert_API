@@ -12,7 +12,7 @@
 		<Item Name="Get Configuration File Path.vi" Type="VI" URL="../../Configuration/Get Configuration File Path.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 			<Item Name="VI References.ctl" Type="VI" URL="../VI References.ctl"/>
