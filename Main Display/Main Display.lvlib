@@ -32,6 +32,9 @@
 		<Item Name="Change Column Header" Type="Folder">
 			<Item Name="Change Column Header.lvclass" Type="LVClass" URL="../Right Click Menu Actions/Change Column Header/Change Column Header.lvclass"/>
 		</Item>
+		<Item Name="Update Failure Action" Type="Folder">
+			<Item Name="Change Failure Action.lvclass" Type="LVClass" URL="../Right Click Menu Actions/Change Failure Action/Change Failure Action.lvclass"/>
+		</Item>
 		<Item Name="RCM_Actions.lvclass" Type="LVClass" URL="../Right Click Menu Actions/RCM_Actions.lvclass"/>
 	</Item>
 	<Item Name="Main Display.lvclass" Type="LVClass" URL="../Main Display/Main Display.lvclass"/>
