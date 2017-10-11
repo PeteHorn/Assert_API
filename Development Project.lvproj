@@ -21,6 +21,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Assert API Components/Assert API Components.lvlib"/>
+		<Item Name="Menu Click Data.ctl" Type="VI" URL="../Main Display/Main Display/Menu Click Data.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
