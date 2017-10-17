@@ -11,16 +11,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Images" Type="Folder" URL="../../Images">
+		<Item Name="Images" Type="Folder" URL="../Images">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="System Tray" Type="Folder">
-			<Item Name="NotifyIcon.lvclass" Type="LVClass" URL="../../System Tray/NotifyIcon.lvclass"/>
+			<Item Name="NotifyIcon.lvclass" Type="LVClass" URL="../System Tray/NotifyIcon.lvclass"/>
 		</Item>
-		<Item Name="Test Code" Type="Folder" URL="../../Test Code">
+		<Item Name="Test Code" Type="Folder" URL="../Test Code">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Assert API Components/Assert API Components.lvlib"/>
+		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Core/Assert API Components/Assert API Components.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
@@ -84,7 +84,7 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
-			<Item Name="Log Assert Core.vi" Type="VI" URL="../../Assert API Components/Log Assert Core.vi"/>
+			<Item Name="Log Assert Core.vi" Type="VI" URL="../Assert API Components/Log Assert Core.vi"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
