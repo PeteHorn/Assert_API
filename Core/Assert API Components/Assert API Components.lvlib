@@ -15,7 +15,6 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
-			<Item Name="VI References.ctl" Type="VI" URL="../VI References.ctl"/>
 		</Item>
 		<Item Name="Assert Display.lvlib" Type="Library" URL="../../Assert Display/Assert Display.lvlib"/>
 		<Item Name="Assert Startup UI.lvlib" Type="Library" URL="../../Assert Startup UI/Assert Startup UI.lvlib"/>
@@ -25,8 +24,10 @@
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="Components" Type="Folder">
-			<Item Name="Log Assert Core.vi" Type="VI" URL="../Log Assert Core.vi"/>
+			<Item Name="Failure Actions.ctl" Type="VI" URL="../Failure Actions.ctl"/>
+			<Item Name="VI References.ctl" Type="VI" URL="../VI References.ctl"/>
 		</Item>
+		<Item Name="Log Assert Core.vi" Type="VI" URL="../Log Assert Core.vi"/>
 	</Item>
 	<Item Name="Startup.vi" Type="VI" URL="../../Startup.vi"/>
 </Library>
