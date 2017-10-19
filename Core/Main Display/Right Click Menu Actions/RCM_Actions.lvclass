@@ -44,7 +44,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="Tag to Component.vi" Type="VI" URL="../Tag to Component.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#E!!!!"1!%!!!!'%!Q`````Q^$&lt;WVQ&lt;WZF&lt;H1A6G&amp;M&gt;75!'%!Q`````QZ$&lt;WVQ&lt;WZF&lt;H1A4G&amp;N:1!!&amp;%!Q`````QN*&gt;'6N)&amp;2B:S"J&lt;A"5!0!!$!!!!!!!!1!#!!!!!!!!!!!!!!!!!!!!!Q)!!(A!!!!!!!!!!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!##!!!!!!"!!1!!!!!</Property>
