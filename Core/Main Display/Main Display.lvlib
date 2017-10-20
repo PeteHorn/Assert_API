@@ -34,6 +34,9 @@
 		<Item Name="Change Column Header" Type="Folder">
 			<Item Name="Change Column Header.lvclass" Type="LVClass" URL="../Right Click Menu Actions/Change Column Header/Change Column Header.lvclass"/>
 		</Item>
+		<Item Name="Show Assert" Type="Folder">
+			<Item Name="Show Assert.lvclass" Type="LVClass" URL="../Right Click Menu Actions/Show Assert/Show Assert.lvclass"/>
+		</Item>
 		<Item Name="Update Failure Action" Type="Folder">
 			<Item Name="Change Failure Action.lvclass" Type="LVClass" URL="../Right Click Menu Actions/Change Failure Action/Change Failure Action.lvclass"/>
 		</Item>
