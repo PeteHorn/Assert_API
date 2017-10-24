@@ -49,6 +49,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
+		<Item Name="Filter Variables.ctl" Type="VI" URL="../../Filter Variables.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#\!!!!!1#T!0%!!!!!!!!!"2N"=X.F=H1A16"*)%.P&lt;8"P&lt;G6O&gt;(-O&lt;(:M;7)518.T:8*U)%2J=X"M98EO&lt;(:M;7)&lt;2GFM&gt;'6S)%.P&lt;G:J:S"%;8.Q&lt;'&amp;Z,GRW&lt;'FC(5:J&lt;(2F=C"$&lt;WZG;7=A2'FT='RB?3ZM&gt;G.M98.T&amp;%:J&lt;(2F=C"798*J97*M:8-O9X2M!#N!&amp;A!##U&amp;T=W6S&gt;#"/97VF#52B&gt;'%A6(FQ:1!*2GFM&gt;'6S)%*Z!!%!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+		</Item>
 	</Item>
 	<Item Name="Message Methods" Type="Folder">
 		<Item Name="Build Filter.vi" Type="VI" URL="../Build Filter.vi">

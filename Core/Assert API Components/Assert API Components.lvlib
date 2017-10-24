@@ -14,6 +14,12 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Filter Configurations" Type="Folder">
+			<Item Name="String Based Filters" Type="Folder">
+				<Item Name="Assert Name" Type="Folder">
+					<Item Name="Assert Name Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Assert Name Filter/Assert Name Filter.lvclass"/>
+				</Item>
+				<Item Name="String Filters.lvclass" Type="LVClass" URL="../Filter Configurations/String Filters/String Filters.lvclass"/>
+			</Item>
 			<Item Name="Base Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Base Filter.lvclass"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
