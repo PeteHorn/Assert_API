@@ -24,6 +24,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Core/Assert API Components/Assert API Components.lvlib"/>
+		<Item Name="Filter Variables.ctl" Type="VI" URL="../Core/Filter Config Display/Filter Variables.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>

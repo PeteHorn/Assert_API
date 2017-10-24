@@ -13,6 +13,9 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Filter Configurations" Type="Folder">
+			<Item Name="Base Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Base Filter.lvclass"/>
+		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		</Item>

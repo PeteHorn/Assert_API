@@ -21,6 +21,9 @@
 		</Item>
 		<Item Name="Base Display Configuration.lvclass" Type="LVClass" URL="../Display Configurations/Base Display Configuration.lvclass"/>
 	</Item>
+	<Item Name="Dynamic Filter Window" Type="Folder">
+		<Item Name="Dynamic Filter Window.lvlib" Type="Library" URL="../../../Dynamic Filter Window/Dynamic Filter Window.lvlib"/>
+	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Build Right Click Menu Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Build Right Click Menu Msg/Build Right Click Menu Msg.lvclass"/>
 		<Item Name="Create UDP Service Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Create UDP Service Msg/Create UDP Service Msg.lvclass"/>

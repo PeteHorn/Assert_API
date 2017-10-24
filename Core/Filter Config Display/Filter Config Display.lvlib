@@ -6,6 +6,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Build Filter Msg.lvclass" Type="LVClass" URL="../Filter Config Display Messages/Build Filter Msg/Build Filter Msg.lvclass"/>
+		<Item Name="Launch Dynamic Filter Window PT Msg.lvclass" Type="LVClass" URL="../../Assert Display/Assert Display Messages/Launch Dynamic Filter Window PT Msg/Launch Dynamic Filter Window PT Msg.lvclass"/>
+	</Item>
 	<Item Name="Filter Config Display.lvclass" Type="LVClass" URL="../Filter Config Display/Filter Config Display.lvclass"/>
 </Library>
