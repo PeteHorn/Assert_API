@@ -14,6 +14,12 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Filter Configurations" Type="Folder">
+			<Item Name="Boolean Based Filters" Type="Folder">
+				<Item Name="Status Filter" Type="Folder">
+					<Item Name="Status.lvclass" Type="LVClass" URL="../Filter Configurations/Status Filter/Status.lvclass"/>
+				</Item>
+				<Item Name="Boolean Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Boolean Filters/Boolean Filter.lvclass"/>
+			</Item>
 			<Item Name="String Based Filters" Type="Folder">
 				<Item Name="Assert Builder User Name" Type="Folder">
 					<Item Name="Assert Builder User Name.lvclass" Type="LVClass" URL="../Filter Configurations/Assert Builder User Name Filter/Assert Builder User Name.lvclass"/>
@@ -37,6 +43,15 @@
 					<Item Name="Evaluation String.lvclass" Type="LVClass" URL="../Filter Configurations/Evaluation String Filter/Evaluation String.lvclass"/>
 				</Item>
 				<Item Name="String Filters.lvclass" Type="LVClass" URL="../Filter Configurations/String Filters/String Filters.lvclass"/>
+			</Item>
+			<Item Name="Time Based Filters" Type="Folder">
+				<Item Name="Assert Build Timestamp Filter" Type="Folder">
+					<Item Name="Assert Build Timestamp Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Assert Build Timestamp Filter/Assert Build Timestamp Filter.lvclass"/>
+				</Item>
+				<Item Name="Last Update Timestamp Filter" Type="Folder">
+					<Item Name="Last Update Timestamp Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Last Update Timestamp Filter/Last Update Timestamp Filter.lvclass"/>
+				</Item>
+				<Item Name="Time Filters.lvclass" Type="LVClass" URL="../Filter Configurations/Time Filters/Time Filters.lvclass"/>
 			</Item>
 			<Item Name="Base Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Base Filter.lvclass"/>
 		</Item>

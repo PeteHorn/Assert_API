@@ -24,6 +24,15 @@
 	<Item Name="Base Filter.ctl" Type="Class Private Data" URL="Base Filter.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Apply Exclusion Value.vi" Type="VI" URL="../Apply Exclusion Value.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#-!!!!"1!%!!!!%%!B#E:J&lt;(2F=C"0&gt;81!!!Z!)1F&amp;?'.M&gt;72F:$]!$E!B#%:J&lt;(2F=G6E!!"5!0!!$!!!!!!!!1!!!!!!!!!!!!)!!!!!!!-!!!)!!(A!!!!!!!!!!!!!$1I!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!+!!!!!!!!!!!"!!1!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+	</Item>
 	<Item Name="Filter Triggered.vi" Type="VI" URL="../Filter Triggered.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!/K!!!!'Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!)1B';7RU:8*F:!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!11&amp;-+2'&amp;U93"797RV:1!!%E"5!!9,4'&amp;T&gt;#"6='2B&gt;'5!%%!Q`````Q&gt;$&lt;WVN:7ZU!"J!-0````]228:B&lt;(6B&gt;'FP&lt;C"4&gt;(*J&lt;G=!$%!B"F.U982V=Q!!&amp;%!Q`````QN"=X.F=H1A4G&amp;N:1#&amp;!0%!!!!!!!!!!BN"=X.F=H1A16"*)%.P&lt;8"P&lt;G6O&gt;(-O&lt;(:M;7)42G&amp;J&lt;(6S:3""9X2J&lt;WZT,G.U&lt;!".1"9!"!2/&lt;WZF#URP:S"5&lt;S"';7RF$V"B&gt;8.F)%6Y:7.V&gt;'FP&lt;A^"9G^S&gt;#"&amp;?'6D&gt;82J&lt;WY!!!Z'97FM&gt;8*F)%&amp;D&gt;'FP&lt;A!!'%!Q`````QZ"=X.F=H1A6EEA4G&amp;N:1!!'%!Q`````Q^$97RM;7ZH)&amp;:*)%ZB&lt;75!%U!$!!V"=X.F=H1A6EEA65F%!"J!-0````]26'^Q)%RF&gt;G6M)&amp;:*)%ZB&lt;75!(%"Q!!A!!!!#!!!/1W&amp;M&lt;'FO:S"733"3:79!!"J!=!!)!!!!!A!!$5&amp;T=W6S&gt;#"733"3:79!5A$R!!!!!!!!!!)&lt;18.T:8*U)%&amp;133"$&lt;WVQ&lt;WZF&lt;H2T,GRW&lt;'FC%6:*)&amp;*F:G6S:7ZD:8-O9X2M!"R!5!!#!")!%QV733"3:7:F=G6O9W6T!"Z!6!!'&amp;E&amp;T=W6S&gt;#"#&gt;7FM:#"5;7VF=X2B&lt;8!!!#*!-0````]918.T:8*U)%*V;7RE:8)A68.F=C"/97VF!!!31$$`````#52B&gt;'%A6(FQ:1"N!0%!!!!!!!!!!BN"=X.F=H1A16"*)%.P&lt;8"P&lt;G6O&gt;(-O&lt;(:M;7)1476T=W&amp;H:3"%982B,G.U&lt;!!Y1&amp;!!$Q!(!!A!#1!+!!M!$!!.!!Y!$Q!1!"%!&amp;!!6!"9!&amp;QZ"=X.F=H1A476T=W&amp;H:1!!3E"Q!"Y!!$%&lt;18.T:8*U)%&amp;133"$&lt;WVQ&lt;WZF&lt;H2T,GRW&lt;'FC%U*B=W5A2GFM&gt;'6S,GRW9WRB=X-!$E*B=W5A2GFM&gt;'6S)'FO!!"5!0!!$!!$!!1!"1!%!!1!"!!%!!1!"A!%!"A!'1)!!(A!!!U)!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!)!!!!E!!!!!!"!"I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
