@@ -15,8 +15,26 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Filter Configurations" Type="Folder">
 			<Item Name="String Based Filters" Type="Folder">
+				<Item Name="Assert Builder User Name" Type="Folder">
+					<Item Name="Assert Builder User Name.lvclass" Type="LVClass" URL="../Filter Configurations/Assert Builder User Name Filter/Assert Builder User Name.lvclass"/>
+				</Item>
 				<Item Name="Assert Name" Type="Folder">
 					<Item Name="Assert Name Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Assert Name Filter/Assert Name Filter.lvclass"/>
+				</Item>
+				<Item Name="Assert VI Name" Type="Folder">
+					<Item Name="Assert VI Name.lvclass" Type="LVClass" URL="../Filter Configurations/Assert VI Name Filter/Assert VI Name.lvclass"/>
+				</Item>
+				<Item Name="Calling VI Name" Type="Folder">
+					<Item Name="Calling VI Name.lvclass" Type="LVClass" URL="../Filter Configurations/Calling VI Name Filter/Calling VI Name.lvclass"/>
+				</Item>
+				<Item Name="Comment" Type="Folder">
+					<Item Name="Comment.lvclass" Type="LVClass" URL="../Filter Configurations/Comment Filter/Comment.lvclass"/>
+				</Item>
+				<Item Name="Data Type" Type="Folder">
+					<Item Name="Data Type.lvclass" Type="LVClass" URL="../Filter Configurations/Data Type Filter/Data Type.lvclass"/>
+				</Item>
+				<Item Name="Evaluation String" Type="Folder">
+					<Item Name="Evaluation String.lvclass" Type="LVClass" URL="../Filter Configurations/Evaluation String Filter/Evaluation String.lvclass"/>
 				</Item>
 				<Item Name="String Filters.lvclass" Type="LVClass" URL="../Filter Configurations/String Filters/String Filters.lvclass"/>
 			</Item>

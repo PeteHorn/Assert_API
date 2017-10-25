@@ -25,6 +25,7 @@
 	</Item>
 	<Item Name="Display Components" Type="Folder">
 		<Item Name="Convert Variant to Data String.vi" Type="VI" URL="../Components/Convert Variant to Data String.vi"/>
+		<Item Name="Filter By Enum.ctl" Type="VI" URL="../../Assert API Components/Filter By Enum.ctl"/>
 		<Item Name="Item Configuration.ctl" Type="VI" URL="../Assert Display/Item Configuration.ctl"/>
 		<Item Name="Items.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Items.ctl"/>
 		<Item Name="Service Details.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Service Details.ctl"/>
