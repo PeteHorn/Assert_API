@@ -24,6 +24,7 @@
 		</Item>
 	</Item>
 	<Item Name="Display Components" Type="Folder">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Convert Variant to Data String.vi" Type="VI" URL="../Components/Convert Variant to Data String.vi"/>
 		<Item Name="Filter By String.ctl" Type="VI" URL="../../Assert API Components/Filter By String.ctl"/>
 		<Item Name="Filter By Time.ctl" Type="VI" URL="../../Assert API Components/Filter By Time.ctl"/>
@@ -31,6 +32,10 @@
 		<Item Name="Item Configuration.ctl" Type="VI" URL="../Assert Display/Item Configuration.ctl"/>
 		<Item Name="Items.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Items.ctl"/>
 		<Item Name="Service Details.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Service Details.ctl"/>
+		<Item Name="Build Filter.vi" Type="VI" URL="../Components/Build Filter.vi"/>
+		<Item Name="Boolean Filter Configuration.ctl" Type="VI" URL="../../Assert API Components/Boolean Filter Configuration.ctl"/>
+		<Item Name="String Filter Configuration.ctl" Type="VI" URL="../../Assert API Components/String Filter Configuration.ctl"/>
+		<Item Name="Time Filter Configuration.ctl" Type="VI" URL="../../Assert API Components/Time Filter Configuration.ctl"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Change Screen Msg.lvclass" Type="LVClass" URL="../Assert Display Messages/Change Screen Msg/Change Screen Msg.lvclass">
