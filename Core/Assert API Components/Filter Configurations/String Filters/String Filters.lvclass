@@ -64,4 +64,13 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
+	<Item Name="Get Specific Filter Configuration String.vi" Type="VI" URL="../Get Specific Filter Configuration String.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$'!!!!"!!%!!!!&amp;E!Q`````QV';7RU:8)A5X2S;7ZH!&amp;"!=!!?!!!U'U&amp;T=W6S&gt;#""5%EA1W^N='^O:7ZU=SZM&gt;GRJ9B:4&gt;(*J&lt;G=A2GFM&gt;'6S=SZM&gt;G.M98.T!!!25X2S;7ZH)%:J&lt;(2F=H-A;7Y!6!$Q!!Q!!!!!!!%!!!!!!!!!!!!!!!!!!!!!!!)#!!"Y!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!1!$!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
+	</Item>
 </LVClass>

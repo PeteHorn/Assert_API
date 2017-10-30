@@ -42,6 +42,7 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 		<Item Name="New Item Msg.lvclass" Type="LVClass" URL="../Assert Display Messages/New Item Msg/New Item Msg.lvclass"/>
+		<Item Name="Remove Item Msg.lvclass" Type="LVClass" URL="../Assert Display Messages/Remove Item Msg/Remove Item Msg.lvclass"/>
 	</Item>
 	<Item Name="Assert Display.lvclass" Type="LVClass" URL="../Assert Display/Assert Display.lvclass"/>
 </Library>
