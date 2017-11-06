@@ -55,10 +55,10 @@
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		</Item>
 		<Item Name="Assert Display.lvlib" Type="Library" URL="../../Assert Display/Assert Display.lvlib"/>
+		<Item Name="Assert Service.lvlib" Type="Library" URL="../../Assert Service/Assert Service.lvlib"/>
 		<Item Name="Assert Startup UI.lvlib" Type="Library" URL="../../Assert Startup UI/Assert Startup UI.lvlib"/>
 		<Item Name="Base UI Actor.lvlib" Type="Library" URL="../../Base UI Actor/Base UI Actor.lvlib"/>
 		<Item Name="Log Assert Core.lvlib" Type="Library" URL="../Log Assert Core Components/Log Assert Core.lvlib"/>
-		<Item Name="UDP Service.lvlib" Type="Library" URL="../../UDP Service/UDP Service.lvlib"/>
 	</Item>
 	<Item Name="Configuration" Type="Folder">
 		<Item Name="Assert API Configuration.ini" Type="Document" URL="../../Configuration/Assert API Configuration.ini"/>

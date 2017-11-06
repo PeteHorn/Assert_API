@@ -7,5 +7,5 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder"/>
-	<Item Name="UDP Service.lvclass" Type="LVClass" URL="../UDP Service/UDP Service.lvclass"/>
+	<Item Name="Assert Service.lvclass" Type="LVClass" URL="../Assert Service/Assert Service.lvclass"/>
 </Library>
