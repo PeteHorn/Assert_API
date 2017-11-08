@@ -38,7 +38,7 @@
 	<Item Name="UDP Interface" Type="Folder">
 		<Item Name="Get Failure Action SEQ.vi" Type="VI" URL="../Get Failure Action SEQ.vi"/>
 		<Item Name="Get Host IP Address.vi" Type="VI" URL="../Get Host IP Address.vi"/>
-		<Item Name="Get UDP Reference.vi" Type="VI" URL="../Get UDP Reference.vi"/>
+		<Item Name="Get STM Reference.vi" Type="VI" URL="../Get STM Reference.vi"/>
 		<Item Name="Send UDP Packet.vi" Type="VI" URL="../Send UDP Packet.vi"/>
 	</Item>
 </Library>
