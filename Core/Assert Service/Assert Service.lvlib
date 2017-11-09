@@ -6,6 +6,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
+	<Item Name="Components" Type="Folder">
+		<Item Name="Service States.ctl" Type="VI" URL="../Assert Service/Service States.ctl"/>
+	</Item>
 	<Item Name="Messages for this Actor" Type="Folder"/>
 	<Item Name="Assert Service.lvclass" Type="LVClass" URL="../Assert Service/Assert Service.lvclass"/>
 </Library>
