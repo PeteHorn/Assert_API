@@ -4,7 +4,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
-		<Property Name="CCSymbols" Type="Str">AF_Debug_Trace,FALSE;</Property>
+		<Property Name="CCSymbols" Type="Str">AF_Debug_Trace,TRUE;</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
