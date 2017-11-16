@@ -9,13 +9,12 @@
 	<Item Name="Components" Type="Folder">
 		<Item Name="Service States.ctl" Type="VI" URL="../Assert Service/Service States.ctl"/>
 	</Item>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="New P2P UDP Link Msg.lvclass" Type="LVClass" URL="../Assert Service Messages/New P2P UDP Link Msg/New P2P UDP Link Msg.lvclass"/>
+	</Item>
 	<Item Name="Service Actions" Type="Folder">
 		<Item Name="Open UDP Listener" Type="Folder">
 			<Item Name="UDP Listener.lvclass" Type="LVClass" URL="../Service Actions/UDP Listener/UDP Listener.lvclass"/>
-		</Item>
-		<Item Name="Wait on Assert ID" Type="Folder">
-			<Item Name="Wait On Assert ID.lvclass" Type="LVClass" URL="../Service Actions/Wait on Assert ID/Wait On Assert ID.lvclass"/>
 		</Item>
 		<Item Name="Service Action Base.lvclass" Type="LVClass" URL="../Service Actions/Service Action Base.lvclass"/>
 	</Item>
