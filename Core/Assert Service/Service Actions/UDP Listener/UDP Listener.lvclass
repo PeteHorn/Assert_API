@@ -27,6 +27,15 @@
 	<Item Name="UDP Listener.ctl" Type="Class Private Data" URL="UDP Listener.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Build Port ID Message.vi" Type="VI" URL="../Build Port ID Message.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#P!!!!"1!%!!!!)%!Q`````R:"=X.F=H1A5'^S&gt;#"*2#".:8.T97&gt;F!!!;1$$`````%%&amp;T=W6S&gt;#"*2#"4&gt;(*J&lt;G=!!"6!"A!04G6X)&amp;"P=H1A4H6N9G6S!&amp;1!]!!-!!!!!!!"!!!!!!!!!!!!!!!!!!)!!!!$!A!!?!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!)!!!!!!%!"!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+	</Item>
 	<Item Name="Do Action.vi" Type="VI" URL="../Do Action.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(2!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!'*!=!!?!!"('U&amp;T=W6S&gt;#""5%EA1W^N='^O:7ZU=SZM&gt;GRJ9B2"=X.F=H1A5W6S&gt;GFD:3ZM&gt;GRJ9B262&amp;!A4'FT&gt;'6O:8)O&lt;(:D&lt;'&amp;T=Q!16521)%RJ=X2F&lt;G6S)'^V&gt;!!!5E"Q!"Y!!$!617.U&lt;X)A2H*B&lt;76X&lt;X*L,GRW&lt;'FC'%VF=X.B:W5A27ZR&gt;76V:8)O&lt;(:D&lt;'&amp;T=Q!!&amp;U&amp;T=W6S&gt;#"4:8*W;7.F)%6O=86F&gt;76S!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!9%"Q!"Y!!%=&lt;18.T:8*U)%&amp;133"$&lt;WVQ&lt;WZF&lt;H2T,GRW&lt;'FC&amp;%&amp;T=W6S&gt;#"4:8*W;7.F,GRW&lt;'FC&amp;&amp;6%5#"-;8.U:7ZF=CZM&gt;G.M98.T!!^62&amp;!A4'FT&gt;'6O:8)A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!#!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
