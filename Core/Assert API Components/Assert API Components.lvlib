@@ -68,6 +68,7 @@
 		<Item Name="Components" Type="Folder">
 			<Item Name="Failure Actions.ctl" Type="VI" URL="../Failure Actions.ctl"/>
 			<Item Name="Maintain Caller Reference.vi" Type="VI" URL="../Log Assert Core Components/Maintain Caller Reference.vi"/>
+			<Item Name="Timeouts.ctl" Type="VI" URL="../Log Assert Core Components/Timeouts.ctl"/>
 			<Item Name="VI References.ctl" Type="VI" URL="../VI References.ctl"/>
 		</Item>
 		<Item Name="Log Assert Core.vi" Type="VI" URL="../Log Assert Core.vi"/>
