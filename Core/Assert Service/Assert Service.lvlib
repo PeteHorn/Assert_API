@@ -10,6 +10,7 @@
 		<Item Name="Service States.ctl" Type="VI" URL="../Assert Service/Service States.ctl"/>
 	</Item>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Link Message Msg.lvclass" Type="LVClass" URL="../Assert Service Messages/Link Message Msg/Link Message Msg.lvclass"/>
 		<Item Name="New P2P UDP Link Msg.lvclass" Type="LVClass" URL="../Assert Service Messages/New P2P UDP Link Msg/New P2P UDP Link Msg.lvclass"/>
 	</Item>
 	<Item Name="Service Actions" Type="Folder">
