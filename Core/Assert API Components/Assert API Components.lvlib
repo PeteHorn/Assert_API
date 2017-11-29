@@ -11,6 +11,9 @@
 		<Item Name="Assert API Configuration.ini" Type="Document" URL="../../Configuration/Assert API Configuration.ini"/>
 		<Item Name="Get Configuration File Path.vi" Type="VI" URL="../../Configuration/Get Configuration File Path.vi"/>
 	</Item>
+	<Item Name="Event Communications" Type="Folder">
+		<Item Name="Get Assert Event Reference.vi" Type="VI" URL="../Get Assert Event Reference.vi"/>
+	</Item>
 	<Item Name="Libraries" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Filter Configurations" Type="Folder">

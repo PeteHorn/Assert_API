@@ -41,6 +41,7 @@
 		<Item Name="Determine Failure Action.vi" Type="VI" URL="../Event Transmission/Determine Failure Action.vi"/>
 		<Item Name="Failure Action Change Event Reference.ctl" Type="VI" URL="../Event Transmission/Failure Action Change Event Reference.ctl"/>
 		<Item Name="Get Failure Action Event.vi" Type="VI" URL="../Event Transmission/Get Failure Action Event.vi"/>
+		<Item Name="Send Event Based Assert.vi" Type="VI" URL="../Event Transmission/Send Event Based Assert.vi"/>
 	</Item>
 	<Item Name="Failure Actions" Type="Folder">
 		<Item Name="Abort Application" Type="Folder">
