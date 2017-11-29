@@ -20,6 +20,7 @@
 		<Item Name="UDP Action Engine.vi" Type="VI" URL="../UDP Action Engine.vi"/>
 	</Item>
 	<Item Name="Components" Type="Folder">
+		<Item Name="Do Failure Action.vi" Type="VI" URL="../Do Failure Action.vi"/>
 		<Item Name="Get IP Address.vi" Type="VI" URL="../Get IP Address.vi"/>
 		<Item Name="Log Assert Core States.ctl" Type="VI" URL="../Log Assert Core States.ctl"/>
 	</Item>
@@ -36,6 +37,11 @@
 		<Item Name="Handle LAC Errors.vi" Type="VI" URL="../Handle LAC Errors.vi"/>
 		<Item Name="LAC Error Logger.lvclass" Type="LVClass" URL="../LAC Error Logger/LAC Error Logger.lvclass"/>
 	</Item>
+	<Item Name="Event Based Message Transmission" Type="Folder">
+		<Item Name="Determine Failure Action.vi" Type="VI" URL="../Event Transmission/Determine Failure Action.vi"/>
+		<Item Name="Failure Action Change Event Reference.ctl" Type="VI" URL="../Event Transmission/Failure Action Change Event Reference.ctl"/>
+		<Item Name="Get Failure Action Event.vi" Type="VI" URL="../Event Transmission/Get Failure Action Event.vi"/>
+	</Item>
 	<Item Name="Failure Actions" Type="Folder">
 		<Item Name="Abort Application" Type="Folder">
 			<Item Name="Abort Application.lvclass" Type="LVClass" URL="../Failure Actions/Abort Application/Abort Application.lvclass"/>
@@ -48,5 +54,8 @@
 		</Item>
 		<Item Name="Fail Action Base.lvclass" Type="LVClass" URL="../Failure Actions/Fail Action Base.lvclass"/>
 		<Item Name="Handle Failure Action.vi" Type="VI" URL="../Handle Failure Action.vi"/>
+	</Item>
+	<Item Name="Network Based Message Transmission" Type="Folder">
+		<Item Name="UDP Core.vi" Type="VI" URL="../UDP Core.vi"/>
 	</Item>
 </Library>
