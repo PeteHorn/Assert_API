@@ -102,7 +102,58 @@
 				<Item Name="UDP Multicast Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Open.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="sgl.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/sgl.ctl"/>
+			<Item Name="dbl.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/dbl.ctl"/>
+			<Item Name="ext.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/ext.ctl"/>
+			<Item Name="u8.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/u8.ctl"/>
+			<Item Name="u16.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/u16.ctl"/>
+			<Item Name="u32.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/u32.ctl"/>
+			<Item Name="u64.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/u64.ctl"/>
+			<Item Name="i8.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/i8.ctl"/>
+			<Item Name="i16.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/i16.ctl"/>
+			<Item Name="i32.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/i32.ctl"/>
+			<Item Name="i64.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/i64.ctl"/>
 		</Item>
-		<Item Name="Build Specifications" Type="Build"/>
+		<Item Name="Build Specifications" Type="Build">
+			<Item Name="Quick Drop Test" Type="Source Distribution">
+				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{5A677A64-A5E2-416F-B1E8-EAFB92F33408}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Quick Drop Test</Property>
+				<Property Name="Bld_excludedDirectory[0]" Type="Path">vi.lib</Property>
+				<Property Name="Bld_excludedDirectory[0].pathType" Type="Str">relativeToAppDir</Property>
+				<Property Name="Bld_excludedDirectory[1]" Type="Path">resource/objmgr</Property>
+				<Property Name="Bld_excludedDirectory[1].pathType" Type="Str">relativeToAppDir</Property>
+				<Property Name="Bld_excludedDirectory[2]" Type="Path">/C/ProgramData/National Instruments/InstCache/16.0</Property>
+				<Property Name="Bld_excludedDirectory[3]" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/2016(32-bit)/ExtraVILib</Property>
+				<Property Name="Bld_excludedDirectory[4]" Type="Path">instr.lib</Property>
+				<Property Name="Bld_excludedDirectory[4].pathType" Type="Str">relativeToAppDir</Property>
+				<Property Name="Bld_excludedDirectory[5]" Type="Path">user.lib</Property>
+				<Property Name="Bld_excludedDirectory[5].pathType" Type="Str">relativeToAppDir</Property>
+				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/2016(32-bit)/QuickDropPlugins</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{1E8480E1-0EEC-4F73-A802-3BCF59A10B11}</Property>
+				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/2016(32-bit)/QuickDropPlugins</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/2016(32-bit)/QuickDropPlugins/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
+				<Property Name="DestinationCount" Type="Int">2</Property>
+				<Property Name="Source[0].itemID" Type="Str">{5B8A34BB-0F0C-4844-AD6B-B9525716F210}</Property>
+				<Property Name="Source[0].type" Type="Str">Container</Property>
+				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
+				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
+				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/QD Code/Scripting Code/_CreateNewAssertSupport</Property>
+				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[1].type" Type="Str">Container</Property>
+				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
+				<Property Name="Source[2].itemID" Type="Ref">/My Computer/QD Code/Scripting Code/Create New Assert.vi</Property>
+				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
+				<Property Name="Source[2].type" Type="Str">VI</Property>
+				<Property Name="SourceCount" Type="Int">3</Property>
+			</Item>
+		</Item>
 	</Item>
 </Project>
