@@ -109,7 +109,6 @@
 			<Item Name="i16.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/i16.ctl"/>
 			<Item Name="i32.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/i32.ctl"/>
 			<Item Name="i64.ctl" Type="VI" URL="../QD Code/Templates/NC Templates/i64.ctl"/>
-			<Item Name="dbl.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/dbl.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Quick Drop Test" Type="Source Distribution">
@@ -130,7 +129,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>
 				<Property Name="Bld_preActionVIID" Type="Ref">/My Computer/QD Code/Pre-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1E8480E1-0EEC-4F73-A802-3BCF59A10B11}</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">12</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>
