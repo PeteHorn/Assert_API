@@ -98,10 +98,12 @@
 				<Item Name="UDP Multicast Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Open.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
-			<Item Name="u64.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/u64.ctl"/>
-			<Item Name="i64.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/i64.ctl"/>
-			<Item Name="u8.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/u8.ctl"/>
-			<Item Name="dbl.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/dbl.ctl"/>
+			<Item Name="dbltest.vi" Type="VI" URL="../Test Code/Asserts/dbltest.vi"/>
+			<Item Name="u64test.vi" Type="VI" URL="../Test Code/Asserts/u64test.vi"/>
+			<Item Name="i64test.vi" Type="VI" URL="../Test Code/Asserts/i64test.vi"/>
+			<Item Name="u8test.vi" Type="VI" URL="../Test Code/Asserts/u8test.vi"/>
+			<Item Name="stringytesting.vi" Type="VI" URL="../Test Code/Asserts/stringytesting.vi"/>
+			<Item Name="fwefwefw.vi" Type="VI" URL="../Test Code/Asserts/fwefwefw.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Quick Drop Test" Type="Source Distribution">
