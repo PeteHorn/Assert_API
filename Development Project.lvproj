@@ -98,6 +98,10 @@
 				<Item Name="UDP Multicast Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Open.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="u64.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/u64.ctl"/>
+			<Item Name="i64.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/i64.ctl"/>
+			<Item Name="u8.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/u8.ctl"/>
+			<Item Name="dbl.ctl" Type="VI" URL="../../../LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport/Templates/NC Templates/dbl.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Quick Drop Test" Type="Source Distribution">
@@ -118,7 +122,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>
 				<Property Name="Bld_preActionVIID" Type="Ref">/My Computer/QD Code/Pre-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1E8480E1-0EEC-4F73-A802-3BCF59A10B11}</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>

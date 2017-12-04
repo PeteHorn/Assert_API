@@ -59,6 +59,7 @@
 			<Item Name="Base Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Base Filter.lvclass"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
+			<Item Name="Assert Event Actions.ctl" Type="VI" URL="../Assert Event Actions.ctl"/>
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		</Item>
 		<Item Name="Assert Display.lvlib" Type="Library" URL="../../Assert Display/Assert Display.lvlib"/>
