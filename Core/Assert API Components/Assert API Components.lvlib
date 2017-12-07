@@ -12,6 +12,15 @@
 		<Item Name="Get Configuration File Path.vi" Type="VI" URL="../../Configuration/Get Configuration File Path.vi"/>
 	</Item>
 	<Item Name="Event Communications" Type="Folder">
+		<Item Name="Unit Test" Type="Folder">
+			<Item Name="Get Assert Event Reference tests.lvtest" Type="TestItem" URL="../../../Unit Tests/Get Assert Event Reference/Get Assert Event Reference tests.lvtest">
+				<Property Name="utf.test.bind" Type="Str">Assert API Components.lvlib:Main Test.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">0A89B820-4D63-0AAD-D634-783DF5229B03</Property>
+			</Item>
+			<Item Name="Main Test.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Main Test.vi"/>
+			<Item Name="Setup.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Setup.vi"/>
+			<Item Name="Teardown.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Teardown.vi"/>
+		</Item>
 		<Item Name="Get Assert Event Reference.vi" Type="VI" URL="../Get Assert Event Reference.vi"/>
 	</Item>
 	<Item Name="Libraries" Type="Folder">
@@ -60,6 +69,7 @@
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Assert Event Actions.ctl" Type="VI" URL="../Assert Event Actions.ctl"/>
+			<Item Name="Display Type.ctl" Type="VI" URL="../Display Type.ctl"/>
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		</Item>
 		<Item Name="Assert Display.lvlib" Type="Library" URL="../../Assert Display/Assert Display.lvlib"/>
