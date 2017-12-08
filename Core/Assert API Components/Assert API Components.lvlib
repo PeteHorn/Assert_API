@@ -15,7 +15,7 @@
 		<Item Name="Unit Test" Type="Folder">
 			<Item Name="Get Assert Event Reference tests.lvtest" Type="TestItem" URL="../../../Unit Tests/Get Assert Event Reference/Get Assert Event Reference tests.lvtest">
 				<Property Name="utf.test.bind" Type="Str">Assert API Components.lvlib:Main Test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">0A89B820-4D63-0AAD-D634-783DF5229B03</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">DFD7AC6B-FD7A-1EE7-458C-B83CFF78FB1F</Property>
 			</Item>
 			<Item Name="Main Test.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Main Test.vi"/>
 			<Item Name="Setup.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Setup.vi"/>
