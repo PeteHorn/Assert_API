@@ -38,6 +38,12 @@
 		<Item Name="LAC Error Logger.lvclass" Type="LVClass" URL="../LAC Error Logger/LAC Error Logger.lvclass"/>
 	</Item>
 	<Item Name="Event Based Message Transmission" Type="Folder">
+		<Item Name="Unit Tests" Type="Folder">
+			<Item Name="Determine Failure Action" Type="Folder">
+				<Item Name="Determine Failure Action UT Main.vi" Type="VI" URL="../../../../Unit Tests/Determine Failure Action/Determine Failure Action UT Main.vi"/>
+				<Item Name="DFA Tester.lvclass" Type="LVClass" URL="../../../../Unit Tests/Determine Failure Action/DFA Tester.lvclass"/>
+			</Item>
+		</Item>
 		<Item Name="Determine Failure Action.vi" Type="VI" URL="../Event Transmission/Determine Failure Action.vi"/>
 		<Item Name="Failure Action Change Event Reference.ctl" Type="VI" URL="../Event Transmission/Failure Action Change Event Reference.ctl"/>
 		<Item Name="Get Failure Action Event.vi" Type="VI" URL="../Event Transmission/Get Failure Action Event.vi"/>

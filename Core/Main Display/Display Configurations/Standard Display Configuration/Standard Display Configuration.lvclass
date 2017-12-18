@@ -29,11 +29,11 @@
 	</Item>
 	<Item Name="Unit Tests" Type="Folder">
 		<Item Name="New Assert Message Unit Test" Type="Folder">
-			<Item Name="New Assert Message.lvtest" Type="TestItem" URL="../New Assert Message.lvtest">
+			<Item Name="New Assert Message.lvtest" Type="TestItem" URL="../../../../../Unit Tests/New Assert Message/New Assert Message.lvtest">
 				<Property Name="utf.test.bind" Type="Str">Assert API Components.lvlib:Assert Display.lvlib:Main Display.lvlib:Standard Display Configuration.lvclass:New Assert Msg UT Main.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">959F8F68-F521-E939-B909-615C209109EF</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">F1D252DA-3CA3-F461-AE4E-C3B885765F01</Property>
 			</Item>
-			<Item Name="New Assert Msg UT Main.vi" Type="VI" URL="../Unit Tests/New Assert Msg UT Main.vi">
+			<Item Name="New Assert Msg UT Main.vi" Type="VI" URL="../../../../../Unit Tests/New Assert Message/New Assert Msg UT Main.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!1T!!!!(1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!%U!$!!R"=X.F=H1A1W^V&lt;H1!!""!5QJ%982B)&amp;:B&lt;(6F!!!31&amp;1!"AN-98.U)&amp;6Q:'&amp;U:1!11$$`````"U.P&lt;7VF&lt;H1!'E!Q`````R&amp;&amp;&gt;G&amp;M&gt;7&amp;U;7^O)&amp;.U=GFO:Q!-1#%'5X2B&gt;(6T!!!51$$`````#U&amp;T=W6S&gt;#"/97VF!)5!]1!!!!!!!!!#'U&amp;T=W6S&gt;#""5%EA1W^N='^O:7ZU=SZM&gt;GRJ9B.'97FM&gt;8*F)%&amp;D&gt;'FP&lt;H-O9X2M!%V!&amp;A!%"%ZP&lt;G5,4'^H)&amp;2P)%:J&lt;'505'&amp;V=W5A28BF9X6U;7^O$U&amp;C&lt;X*U)%6Y:7.V&gt;'FP&lt;A!!$E:B;7RV=G5A17.U;7^O!!!91$$`````$E&amp;T=W6S&gt;#"733"/97VF!!!91$$`````$U.B&lt;'RJ&lt;G=A6EEA4G&amp;N:1!41!-!$5&amp;T=W6S&gt;#"733"6351!'E!Q`````R&amp;5&lt;X!A4'6W:7QA6EEA4G&amp;N:1!=1(!!#!!!!!)!!!Z$97RM;7ZH)&amp;:*)&amp;*F:A!!'E"Q!!A!!!!#!!!.18.T:8*U)&amp;:*)&amp;*F:A"3!0%!!!!!!!!!!BN"=X.F=H1A16"*)%.P&lt;8"P&lt;G6O&gt;(-O&lt;(:M;7)26EEA5G6G:8*F&lt;G.F=SZD&gt;'Q!(%"1!!)!%!!2$6:*)&amp;*F:G6S:7ZD:8-!(E"5!!9718.T:8*U)%*V;7RE)&amp;2J&lt;76T&gt;'&amp;N=!!!)E!Q`````RB"=X.F=H1A1H6J&lt;'2F=C"6=W6S)%ZB&lt;75!!"*!-0````]*2'&amp;U93"5?8"F!"2!-0````]+36!A172E=G6T=Q!!&lt;Q$R!!!!!!!!!!)&lt;18.T:8*U)%&amp;133"$&lt;WVQ&lt;WZF&lt;H2T,GRW&lt;'FC%%VF=X.B:W5A2'&amp;U93ZD&gt;'Q!/E"1!"!!"1!'!!=!#!!*!!I!#Q!-!!U!$A!0!")!%Q!5!"5!&amp;AZ"=X.F=H1A476T=W&amp;H:1!!)%"!!!(`````!"=3476T=W&amp;H:3"%982B)%&amp;S=G&amp;Z!!!%!!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1#91(!!(A!!&lt;"N"=X.F=H1A16"*)%.P&lt;8"P&lt;G6O&gt;(-O&lt;(:M;7)518.T:8*U)%2J=X"M98EO&lt;(:M;7)347&amp;J&lt;C"%;8.Q&lt;'&amp;Z,GRW&lt;'FC*F.U97ZE98*E)%2J=X"M98EA1W^O:GFH&gt;8*B&gt;'FP&lt;CZM&gt;G.M98.T!!!B5X2B&lt;G2B=G1A2'FT='RB?3"$&lt;WZG;7&gt;V=G&amp;U;7^O)'FO!&amp;1!]!!-!!-!"!!9!"E!'1!:!"E!'1!;!"E!&amp;Q!&lt;!Q!!?!!!$1A!!!E!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!A!!!!3!!!!!!%!(!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -42,7 +42,7 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 			</Item>
-			<Item Name="New Assert Msg UT Setup.vi" Type="VI" URL="../Unit Tests/New Assert Msg UT Setup.vi">
+			<Item Name="New Assert Msg UT Setup.vi" Type="VI" URL="../../../../../Unit Tests/New Assert Message/New Assert Msg UT Setup.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;8!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!*J!=!!?!!"M'U&amp;T=W6S&gt;#""5%EA1W^N='^O:7ZU=SZM&gt;GRJ9B2"=X.F=H1A2'FT='RB?3ZM&gt;GRJ9B*.97FO)%2J=X"M98EO&lt;(:M;7)G5X2B&lt;G2B=G1A2'FT='RB?3"$&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!#*4&gt;'&amp;O:'&amp;S:#"%;8.Q&lt;'&amp;Z)%.P&lt;G:J:X6S982J&lt;WYA&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!%!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!!!!!!!!%!"Q!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>

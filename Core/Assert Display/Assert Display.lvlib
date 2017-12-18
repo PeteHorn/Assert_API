@@ -21,7 +21,7 @@
 		</Item>
 		<Item Name="Timing Engine" Type="Folder">
 			<Item Name="Unit Tests" Type="Folder">
-				<Item Name="Timing Engine Tester.lvlib" Type="Library" URL="../../../Timing Engine Tester/Timing Engine Tester.lvlib"/>
+				<Item Name="Timing Engine Tester.lvlib" Type="Library" URL="../../../Unit Tests/Timing Engine Tester/Timing Engine Tester.lvlib"/>
 			</Item>
 			<Item Name="Timing Engine.lvlib" Type="Library" URL="../../Timing Engine/Timing Engine.lvlib"/>
 		</Item>
