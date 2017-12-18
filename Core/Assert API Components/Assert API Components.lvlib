@@ -13,10 +13,7 @@
 	</Item>
 	<Item Name="Event Communications" Type="Folder">
 		<Item Name="Unit Test" Type="Folder">
-			<Item Name="Get Assert Event Reference tests.lvtest" Type="TestItem" URL="../../../Unit Tests/Get Assert Event Reference/Get Assert Event Reference tests.lvtest">
-				<Property Name="utf.test.bind" Type="Str">Assert API Components.lvlib:Main Test.vi</Property>
-				<Property Name="utf.vector.test.bind" Type="Str">88EDCEC5-1211-5144-CAD1-DBE1199374E3</Property>
-			</Item>
+			<Item Name="Get Assert Event Reference tests.lvclass" Type="LVClass" URL="../../../Unit Tests/Get Assert Event Reference/Get Assert Event Reference tests.lvclass"/>
 			<Item Name="Main Test.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Main Test.vi"/>
 			<Item Name="Setup.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Setup.vi"/>
 			<Item Name="Teardown.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Teardown.vi"/>
