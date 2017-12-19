@@ -51,6 +51,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
+		<Item Name="Call Abort VI.vi" Type="VI" URL="../Call Abort VI.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!.I!!!!'A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%%"4#E2B&gt;'%A6G&amp;M&gt;75!!"*!6!!'#URB=X1A68"E982F!""!-0````](1W^N&lt;76O&gt;!!;1$$`````%56W97RV982J&lt;WYA5X2S;7ZH!!R!)1:4&gt;'&amp;U&gt;8-!!"2!-0````],18.T:8*U)%ZB&lt;75!B1$R!!!!!!!!!!)&lt;18.T:8*U)%&amp;133"$&lt;WVQ&lt;WZF&lt;H2T,GRW&lt;'FC%U:B;7RV=G5A17.U;7^O=SZD&gt;'Q!45!7!!1%4G^O:1N-&lt;W=A6']A2GFM:1^1986T:3"&amp;?'6D&gt;82J&lt;WY017*P=H1A28BF9X6U;7^O!!!/2G&amp;J&lt;(6S:3""9X2J&lt;WY!!"B!-0````]/18.T:8*U)&amp;:*)%ZB&lt;75!!"B!-0````]01W&amp;M&lt;'FO:S"733"/97VF!".!!Q!.18.T:8*U)&amp;:*)&amp;6*2!!;1$$`````%62P=#"-:8:F&lt;#"733"/97VF!"R!=!!)!!!!!A!!$E.B&lt;'RJ&lt;G=A6EEA5G6G!!!;1(!!#!!!!!)!!!V"=X.F=H1A6EEA5G6G!&amp;)!]1!!!!!!!!!#'U&amp;T=W6S&gt;#""5%EA1W^N='^O:7ZU=SZM&gt;GRJ9B&amp;733"3:7:F=G6O9W6T,G.U&lt;!!=1&amp;!!!A!2!").6EEA5G6G:8*F&lt;G.F=Q!?1&amp;1!"B:"=X.F=H1A1H6J&lt;'1A6'FN:8.U97VQ!!!C1$$`````'%&amp;T=W6S&gt;#"#&gt;7FM:'6S)&amp;6T:8)A4G&amp;N:1!!%E!Q`````QF%982B)&amp;2Z='5!&amp;%!Q`````QJ*5#"":'2S:8.T!!"P!0%!!!!!!!!!!BN"=X.F=H1A16"*)%.P&lt;8"P&lt;G6O&gt;(-O&lt;(:M;7)1476T=W&amp;H:3"%982B,G.U&lt;!![1&amp;!!%!!'!!=!#!!*!!I!#Q!-!!U!$A!0!"!!%Q!5!"5!&amp;A!8$E&amp;T=W6S&gt;#".:8.T97&gt;F!!"5!0!!$!!$!!1!"!!%!!1!"!!%!!1!"1!%!!1!'!-!!(A!!!U)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!#!!!!!!"!"E!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+		</Item>
 	</Item>
 	<Item Name="protected" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>

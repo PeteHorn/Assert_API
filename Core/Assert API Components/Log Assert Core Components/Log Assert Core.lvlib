@@ -51,7 +51,9 @@
 	</Item>
 	<Item Name="Failure Actions" Type="Folder">
 		<Item Name="Abort Application" Type="Folder">
-			<Item Name="Abort Application Unit Test.lvclass" Type="LVClass" URL="../../../../Unit Tests/Abort Application/Abort Application Unit Test.lvclass"/>
+			<Item Name="Unit Tests" Type="Folder">
+				<Item Name="Abort Application Unit Test.lvclass" Type="LVClass" URL="../../../../Unit Tests/Abort Application/Abort Application Unit Test.lvclass"/>
+			</Item>
 			<Item Name="Abort Application.lvclass" Type="LVClass" URL="../Failure Actions/Abort Application/Abort Application.lvclass"/>
 		</Item>
 		<Item Name="Log To File" Type="Folder">
