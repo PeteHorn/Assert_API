@@ -63,7 +63,9 @@
 				<Item Name="Time Filters.lvclass" Type="LVClass" URL="../Filter Configurations/Time Filters/Time Filters.lvclass"/>
 			</Item>
 			<Item Name="Unit Tests" Type="Folder">
-				<Item Name="Filter Base Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/Filter Configuration String/Filter String Tester/Filter Base Tester.lvclass"/>
+				<Item Name="Base Filter Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/Base Filter Tester/Base Filter Tester.lvclass"/>
+				<Item Name="String Filter Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/String Filter Tester/String Filter Tester/String Filter Tester.lvclass"/>
+				<Item Name="Time Filter Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/Time Filter Tester/Time Filter Tester/Time Filter Tester.lvclass"/>
 			</Item>
 			<Item Name="Base Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Base Filter.lvclass"/>
 		</Item>
