@@ -62,6 +62,9 @@
 				</Item>
 				<Item Name="Time Filters.lvclass" Type="LVClass" URL="../Filter Configurations/Time Filters/Time Filters.lvclass"/>
 			</Item>
+			<Item Name="Unit Tests" Type="Folder">
+				<Item Name="Filter Base Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/Filter Configuration String/Filter String Tester/Filter Base Tester.lvclass"/>
+			</Item>
 			<Item Name="Base Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Base Filter.lvclass"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
