@@ -27,6 +27,7 @@
 		</Item>
 		<Item Name="Plugin Unit Tests" Type="Folder">
 			<Item Name="Post Build Action Tester.lvclass" Type="LVClass" URL="../Unit Tests/Post Build Action Tester/Post Build Action Tester.lvclass"/>
+			<Item Name="Create New Assert Tester.lvclass" Type="LVClass" URL="../Unit Tests/Create New Assert/Create New Assert Tester.lvclass"/>
 		</Item>
 		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Core/Assert API Components/Assert API Components.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
