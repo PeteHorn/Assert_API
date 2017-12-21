@@ -388,6 +388,7 @@
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
 				<Item Name="Compare Two Paths.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Compare Two Paths.vi"/>
 				<Item Name="Generate Temporary File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Generate Temporary File Path.vi"/>
+				<Item Name="Get File Extension.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Get File Extension.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="System" Type="VI" URL="System">
@@ -420,7 +421,7 @@
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Plugins/Utility/Post-Build Action.vi</Property>
 				<Property Name="Bld_preActionVIID" Type="Ref">/My Computer/Plugins/QD Code/Pre-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1E8480E1-0EEC-4F73-A802-3BCF59A10B11}</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>
@@ -592,7 +593,7 @@
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/PopupMenus/edit time panel and diagram/Assert API.llb</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{53513634-2B3B-4927-9C14-2BD0692E1E51}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/PopupMenus/edit time panel and diagram/Assert API.llb</Property>
