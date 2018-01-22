@@ -89,7 +89,6 @@
 				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
-				<Item Name="NI STM.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/STM/NI STM.lvlib"/>
 				<Item Name="TCP Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen.vi"/>
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
 				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
@@ -390,6 +389,29 @@
 				<Item Name="Generate Temporary File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Generate Temporary File Path.vi"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="LVComboBoxStrsAndValuesArrayTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVComboBoxStrsAndValuesArrayTypeDef.ctl"/>
+				<Item Name="Read Meta Data.vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/Read Meta Data.vi"/>
+				<Item Name="Read Message.vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/Read Message.vi"/>
+				<Item Name="Get Connection Reference.vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/Get Connection Reference.vi"/>
+				<Item Name="Get Connection Reference (TCP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Get Connection Reference (TCP).vi"/>
+				<Item Name="Read Message (TCP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Read Message (TCP).vi"/>
+				<Item Name="Read Meta Data (TCP Ref).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Read Meta Data (TCP Ref).vi"/>
+				<Item Name="Write Meta Data.vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/Write Meta Data.vi"/>
+				<Item Name="MetaDataElement.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/SubVIs/MetaDataElement.ctl"/>
+				<Item Name="Write Message.vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/Write Message.vi"/>
+				<Item Name="Write Meta Data (UDP Ref).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Write Meta Data (UDP Ref).vi"/>
+				<Item Name="Read Message (UDP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Read Message (UDP).vi"/>
+				<Item Name="Get Connection Reference (UDP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Get Connection Reference (UDP).vi"/>
+				<Item Name="Write Message (UDP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Write Message (UDP).vi"/>
+				<Item Name="TCP Connection Info.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/TCP Connection Info.ctl"/>
+				<Item Name="Write Meta Data (TCP Ref).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Write Meta Data (TCP Ref).vi"/>
+				<Item Name="Write Meta Data (TCP Clst).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Write Meta Data (TCP Clst).vi"/>
+				<Item Name="UDP Connection Info.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/UDP Connection Info.ctl"/>
+				<Item Name="UDP Read Options.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/UDP Read Options.ctl"/>
+				<Item Name="Read Meta Data (UDP Ref).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Read Meta Data (UDP Ref).vi"/>
+				<Item Name="Read Meta Data (UDP Clst).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Read Meta Data (UDP Clst).vi"/>
+				<Item Name="Write Message (TCP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Write Message (TCP).vi"/>
+				<Item Name="TCP Read Options.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/TCP Read Options.ctl"/>
+				<Item Name="UDP Write Options.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/UDP Write Options.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="System" Type="VI" URL="System">
