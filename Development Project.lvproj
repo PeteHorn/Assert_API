@@ -93,7 +93,6 @@
 				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
 				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
 				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi"/>
-				<Item Name="Error to Warning.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error to Warning.vi"/>
 				<Item Name="UDP Multicast Write-Only Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Write-Only Open.vi"/>
 				<Item Name="UDP Multicast Read-Write Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Read-Write Open.vi"/>
 				<Item Name="UDP Multicast Read-Only Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Read-Only Open.vi"/>
@@ -411,7 +410,6 @@
 				<Item Name="Read Meta Data (UDP Clst).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Read Meta Data (UDP Clst).vi"/>
 				<Item Name="Write Message (TCP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Write Message (TCP).vi"/>
 				<Item Name="TCP Read Options.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/TCP Read Options.ctl"/>
-				<Item Name="UDP Write Options.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/UDP Write Options.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="System" Type="VI" URL="System">
