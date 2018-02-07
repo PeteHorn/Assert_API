@@ -12,12 +12,6 @@
 	<Item Name="Comms Interface" Type="Folder">
 		<Item Name="Get Failure Action SEQ.vi" Type="VI" URL="../Get Failure Action SEQ.vi"/>
 		<Item Name="Get Host IP Address.vi" Type="VI" URL="../Get Host IP Address.vi"/>
-		<Item Name="Get STM Reference.vi" Type="VI" URL="../Get STM Reference.vi"/>
-		<Item Name="Get UDP Broadcast Reference.vi" Type="VI" URL="../Get UDP Broadcast Reference.vi"/>
-		<Item Name="Manage TCP Link Reference.vi" Type="VI" URL="../Manage TCP Link Reference.vi"/>
-		<Item Name="Send UDP Packet.vi" Type="VI" URL="../Send UDP Packet.vi"/>
-		<Item Name="UDP Action Engine States.ctl" Type="VI" URL="../UDP Action Engine States.ctl"/>
-		<Item Name="UDP Action Engine.vi" Type="VI" URL="../UDP Action Engine.vi"/>
 	</Item>
 	<Item Name="Components" Type="Folder">
 		<Item Name="Do Failure Action.vi" Type="VI" URL="../Do Failure Action.vi"/>
@@ -64,8 +58,5 @@
 		</Item>
 		<Item Name="Fail Action Base.lvclass" Type="LVClass" URL="../Failure Actions/Fail Action Base.lvclass"/>
 		<Item Name="Handle Failure Action.vi" Type="VI" URL="../Handle Failure Action.vi"/>
-	</Item>
-	<Item Name="Network Based Message Transmission" Type="Folder">
-		<Item Name="UDP Core.vi" Type="VI" URL="../UDP Core.vi"/>
 	</Item>
 </Library>

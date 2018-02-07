@@ -89,10 +89,6 @@
 				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
-				<Item Name="TCP Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen.vi"/>
-				<Item Name="Internecine Avoider.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/Internecine Avoider.vi"/>
-				<Item Name="TCP Listen List Operations.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen List Operations.ctl"/>
-				<Item Name="TCP Listen Internal List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen Internal List.vi"/>
 				<Item Name="UDP Multicast Write-Only Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Write-Only Open.vi"/>
 				<Item Name="UDP Multicast Read-Write Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Read-Write Open.vi"/>
 				<Item Name="UDP Multicast Read-Only Open.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/UDP Multicast Read-Only Open.vi"/>
@@ -402,13 +398,6 @@
 				<Item Name="Get Connection Reference (UDP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Get Connection Reference (UDP).vi"/>
 				<Item Name="Write Message (UDP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Write Message (UDP).vi"/>
 				<Item Name="TCP Connection Info.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/TCP Connection Info.ctl"/>
-				<Item Name="Write Meta Data (TCP Ref).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Write Meta Data (TCP Ref).vi"/>
-				<Item Name="Write Meta Data (TCP Clst).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Write Meta Data (TCP Clst).vi"/>
-				<Item Name="UDP Connection Info.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/UDP Connection Info.ctl"/>
-				<Item Name="UDP Read Options.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/UDP Read Options.ctl"/>
-				<Item Name="Read Meta Data (UDP Ref).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Read Meta Data (UDP Ref).vi"/>
-				<Item Name="Read Meta Data (UDP Clst).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/UDP/Read Meta Data (UDP Clst).vi"/>
-				<Item Name="Write Message (TCP).vi" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/Write Message (TCP).vi"/>
 				<Item Name="TCP Read Options.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/STM/TCP/TCP Read Options.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
@@ -438,11 +427,13 @@
 				<Property Name="Bld_excludedDirectory[5]" Type="Path">user.lib</Property>
 				<Property Name="Bld_excludedDirectory[5].pathType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Plugins/Utility/Post-Build Action.vi</Property>
 				<Property Name="Bld_preActionVIID" Type="Ref">/My Computer/Plugins/QD Code/Pre-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1E8480E1-0EEC-4F73-A802-3BCF59A10B11}</Property>
-				<Property Name="Bld_version.build" Type="Int">28</Property>
+				<Property Name="Bld_version.build" Type="Int">29</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>
@@ -452,7 +443,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins/_CreateNewAssertSupport</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{8D6C79CD-478D-4D65-A485-68C98E8D0612}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{6AA9AA00-22C6-48C6-89C1-9911D2D8EC49}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Assert API Components.lvlib</Property>
@@ -461,43 +452,33 @@
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="Source[10].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[10].itemID" Type="Ref">/My Computer/Plugins/Utility/Change BD Constant Value.vi</Property>
-				<Property Name="Source[10].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[10].type" Type="Str">VI</Property>
 				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[11].itemID" Type="Ref">/My Computer/Plugins/Utility/Change Numeric Constant Type.vi</Property>
-				<Property Name="Source[11].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[11].type" Type="Str">VI</Property>
 				<Property Name="Source[12].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[12].itemID" Type="Ref">/My Computer/Plugins/Utility/Change VI Description.vi</Property>
-				<Property Name="Source[12].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[12].type" Type="Str">VI</Property>
 				<Property Name="Source[13].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Plugins/Utility/Changes Constant Types.vi</Property>
-				<Property Name="Source[13].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[13].type" Type="Str">VI</Property>
 				<Property Name="Source[14].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[14].itemID" Type="Ref">/My Computer/Plugins/Utility/Comparison Captions.ctl</Property>
-				<Property Name="Source[14].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[14].type" Type="Str">VI</Property>
 				<Property Name="Source[15].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[15].itemID" Type="Ref">/My Computer/Plugins/Utility/Comparison Ctrl Refs.ctl</Property>
-				<Property Name="Source[15].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[15].type" Type="Str">VI</Property>
 				<Property Name="Source[16].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[16].itemID" Type="Ref">/My Computer/Plugins/Utility/Comparison Visibility.ctl</Property>
-				<Property Name="Source[16].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[16].type" Type="Str">VI</Property>
 				<Property Name="Source[17].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[17].itemID" Type="Ref">/My Computer/Plugins/Utility/Configure Comparison Control.vi</Property>
-				<Property Name="Source[17].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[17].type" Type="Str">VI</Property>
 				<Property Name="Source[18].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[18].itemID" Type="Ref">/My Computer/Plugins/Utility/Configure QuickDrop UI.vi</Property>
-				<Property Name="Source[18].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[18].type" Type="Str">VI</Property>
 				<Property Name="Source[19].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[19].itemID" Type="Ref">/My Computer/Plugins/Utility/Create Asserts Folder.vi</Property>
-				<Property Name="Source[19].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[19].type" Type="Str">VI</Property>
 				<Property Name="Source[2].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[2].Container.depDestIndex" Type="Int">0</Property>
@@ -507,43 +488,33 @@
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="Source[20].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[20].itemID" Type="Ref">/My Computer/Plugins/Utility/FP UI References.ctl</Property>
-				<Property Name="Source[20].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[20].type" Type="Str">VI</Property>
 				<Property Name="Source[21].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[21].itemID" Type="Ref">/My Computer/Plugins/Utility/Generate Assert VI Template Path.vi</Property>
-				<Property Name="Source[21].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[21].type" Type="Str">VI</Property>
 				<Property Name="Source[22].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[22].itemID" Type="Ref">/My Computer/Plugins/Utility/Get Numeric Type Def Path.vi</Property>
-				<Property Name="Source[22].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[22].type" Type="Str">VI</Property>
 				<Property Name="Source[23].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[23].itemID" Type="Ref">/My Computer/Plugins/Utility/Get Paths.vi</Property>
-				<Property Name="Source[23].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[23].type" Type="Str">VI</Property>
 				<Property Name="Source[24].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[24].itemID" Type="Ref">/My Computer/Plugins/Utility/Get Set Operation.vi</Property>
-				<Property Name="Source[24].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[24].type" Type="Str">VI</Property>
 				<Property Name="Source[25].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[25].itemID" Type="Ref">/My Computer/Plugins/Utility/Get Wire Data Type.vi</Property>
-				<Property Name="Source[25].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[25].type" Type="Str">VI</Property>
 				<Property Name="Source[26].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[26].itemID" Type="Ref">/My Computer/Plugins/Utility/Icon Colours.ctl</Property>
-				<Property Name="Source[26].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[26].type" Type="Str">VI</Property>
 				<Property Name="Source[27].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[27].itemID" Type="Ref">/My Computer/Plugins/Utility/Initialise QuickDrop UI.vi</Property>
-				<Property Name="Source[27].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[27].type" Type="Str">VI</Property>
 				<Property Name="Source[28].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[28].itemID" Type="Ref">/My Computer/Plugins/Utility/Numeric Operations.ctl</Property>
-				<Property Name="Source[28].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[28].type" Type="Str">VI</Property>
 				<Property Name="Source[29].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[29].itemID" Type="Ref">/My Computer/Plugins/Utility/Process Build VI Operation.vi</Property>
-				<Property Name="Source[29].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[29].type" Type="Str">VI</Property>
 				<Property Name="Source[3].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[3].itemID" Type="Ref">/My Computer/Plugins/QD Code/Scripting Code/Create New Assert.vi</Property>
@@ -551,19 +522,15 @@
 				<Property Name="Source[3].type" Type="Str">VI</Property>
 				<Property Name="Source[30].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[30].itemID" Type="Ref">/My Computer/Plugins/Utility/Save VI.vi</Property>
-				<Property Name="Source[30].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[30].type" Type="Str">VI</Property>
 				<Property Name="Source[31].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[31].itemID" Type="Ref">/My Computer/Plugins/Utility/Set Assert VI UID.vi</Property>
-				<Property Name="Source[31].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[31].type" Type="Str">VI</Property>
 				<Property Name="Source[32].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[32].itemID" Type="Ref">/My Computer/Plugins/Utility/Set VI Icon Colour.vi</Property>
-				<Property Name="Source[32].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[32].type" Type="Str">VI</Property>
 				<Property Name="Source[33].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[33].itemID" Type="Ref">/My Computer/Plugins/Utility/String Operations.ctl</Property>
-				<Property Name="Source[33].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[33].type" Type="Str">VI</Property>
 				<Property Name="Source[34].Container.applyDestination" Type="Bool">true</Property>
 				<Property Name="Source[34].Container.depDestIndex" Type="Int">0</Property>
@@ -571,29 +538,26 @@
 				<Property Name="Source[34].itemID" Type="Ref">/My Computer/Plugins/Templates</Property>
 				<Property Name="Source[34].type" Type="Str">Container</Property>
 				<Property Name="Source[4].Container.applyDestination" Type="Bool">true</Property>
+				<Property Name="Source[4].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[4].Container.depDestIndex" Type="Int">0</Property>
 				<Property Name="Source[4].destinationIndex" Type="Int">1</Property>
 				<Property Name="Source[4].itemID" Type="Ref">/My Computer/Plugins/Utility</Property>
+				<Property Name="Source[4].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[4].type" Type="Str">Container</Property>
 				<Property Name="Source[5].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[5].itemID" Type="Ref">/My Computer/Plugins/Utility/Full Build Assert.vi</Property>
-				<Property Name="Source[5].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[5].type" Type="Str">VI</Property>
 				<Property Name="Source[6].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Plugins/Utility/Assert Scripting Configuration.ctl</Property>
-				<Property Name="Source[6].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[6].type" Type="Str">VI</Property>
 				<Property Name="Source[7].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Plugins/Utility/Build Assert VI Path.vi</Property>
-				<Property Name="Source[7].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[7].type" Type="Str">VI</Property>
 				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Plugins/Utility/Build Assert VI.vi</Property>
-				<Property Name="Source[8].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[8].type" Type="Str">VI</Property>
 				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Plugins/Utility/Build Evaluation String.vi</Property>
-				<Property Name="Source[9].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[9].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">35</Property>
 			</Item>
@@ -612,9 +576,11 @@
 				<Property Name="Bld_excludedDirectory[5]" Type="Path">user.lib</Property>
 				<Property Name="Bld_excludedDirectory[5].pathType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
+				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/PopupMenus/edit time panel and diagram/Assert API.llb</Property>
+				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{53513634-2B3B-4927-9C14-2BD0692E1E51}</Property>
-				<Property Name="Bld_version.build" Type="Int">18</Property>
+				<Property Name="Bld_version.build" Type="Int">19</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/PopupMenus/edit time panel and diagram/Assert API.llb</Property>
@@ -624,7 +590,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/PopupMenus/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E43D10AE-97D7-4299-9906-E647E9D28674}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{6AA9AA00-22C6-48C6-89C1-9911D2D8EC49}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
 				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
@@ -637,38 +603,6 @@
 				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Plugins/Templates</Property>
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
-			</Item>
-			<Item Name="My Source Distribution" Type="Source Distribution">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{9AB1E3EF-1278-4AF0-8BF6-7C6BE9BBF6C8}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">My Source Distribution</Property>
-				<Property Name="Bld_excludedDirectory[0]" Type="Path">vi.lib</Property>
-				<Property Name="Bld_excludedDirectory[0].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectory[1]" Type="Path">instr.lib</Property>
-				<Property Name="Bld_excludedDirectory[1].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectory[2]" Type="Path">user.lib</Property>
-				<Property Name="Bld_excludedDirectory[2].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectory[3]" Type="Path">resource/objmgr</Property>
-				<Property Name="Bld_excludedDirectory[3].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectory[4]" Type="Path">/C/ProgramData/National Instruments/InstCache/16.0</Property>
-				<Property Name="Bld_excludedDirectory[5]" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/2016(32-bit)/ExtraVILib</Property>
-				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/My Source Distribution</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{3BFA8D18-6E08-4358-9393-A233B55B9AFF}</Property>
-				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/My Source Distribution</Property>
-				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/My Source Distribution/data</Property>
-				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{E43D10AE-97D7-4299-9906-E647E9D28674}</Property>
-				<Property Name="Source[0].type" Type="Str">Container</Property>
-				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Plugins/Utility/Multiple Assert Build.vi</Property>
-				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[1].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
 			</Item>
 		</Item>
 	</Item>
