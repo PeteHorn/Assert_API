@@ -89,5 +89,6 @@
 		</Item>
 		<Item Name="Log Assert Core.vi" Type="VI" URL="../Log Assert Core.vi"/>
 	</Item>
+	<Item Name="Run Assert Display.vi" Type="VI" URL="../../Run Assert Display.vi"/>
 	<Item Name="Startup.vi" Type="VI" URL="../../Startup.vi"/>
 </Library>
