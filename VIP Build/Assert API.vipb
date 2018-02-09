@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-02-07 17:16:12" Creator="UKHornP" Comments="" ID="db93c6fe0f7dfef36189de50075b649a">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-02-08 16:47:39" Creator="UKHornP" Comments="" ID="127248e1f2998f8bff12a4ff7b935f4c">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.11</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
@@ -21,9 +21,9 @@
       <Pre-Build_VI/>
       <Post-Build_VI/>
       <Pre-Install_VI/>
-      <Post-Install_VI>Post-Install Custom Action.vi</Post-Install_VI>
+      <Post-Install_VI/>
       <Pre-Uninstall_VI/>
-      <Post-Uninstall_VI>Post-Uninstall Custom Action.vi</Post-Uninstall_VI>
+      <Post-Uninstall_VI/>
     </Custom_Action_VIs>
     <VI_Package_Configuration_File>Assert API.vipc</VI_Package_Configuration_File>
     <Description>
@@ -71,7 +71,7 @@
       <Tools_Menu>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path/>
+        <Path>&lt;project&gt;\Assert API</Path>
       </Tools_Menu>
       <Help_Menu>
         <LLB>false</LLB>
@@ -137,6 +137,12 @@
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Core/Run Assert Display.vi</Path>
+        <Destination>7</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -170,6 +176,12 @@
       </Exclusions>
       <Exclusions>
         <Path>Plugins/QD Code/Pre-Build Action.vi</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>VIP Build</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Core/Assert Service</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>

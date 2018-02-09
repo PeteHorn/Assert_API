@@ -1,7 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="16008000">
-	<Property Name="NI.Lib.ContainingLib" Type="Str">Assert API Components.lvlib:Assert Display.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../Core/Assert Display/Assert Display.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*(!!!*Q(C=\&gt;7R&lt;&gt;N1%-&lt;R,U++N#T="RIBNU!+LK!*!NQ#+&gt;A;&lt;K)W&gt;H5L;)/!+^Q+7E%L-0`X&gt;++6)F'!R%A+ETK:`%D?_YF]I+7_P*0?;LGVX0VS_9XD3V8@K]WL$;J`TK?@.Z@,THJ]_7'TPOZ_&gt;PV6J]N&amp;;]NHTNLITX\@D?-X&amp;LUOL]O`8?ZP4N)8H\.PV&amp;Z%6&amp;*"/76K1SV*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O2^*2?ZS%5/+2E]'3BJGD2)4I;CZ#PR**\%EXD96?**0)EH]31?4F(C34S**`%E(CZ4YEE]C3@R*"Z;&gt;5HWF2R0YK'^!E`A#4S"*`!QJ!*0!!A'#RI(47!I/"BM"*\!%XD96/!*0)%H]!1?$CPQ"*\!%XA#$Z@UOR*&gt;UV:S0,32YX%]DM@R/"Z;S`%Y(M@D?"Q0Q]HR/"Y(Y1TI.)=AZS,H"'@(]4A?`MDR/"\(YXA=$Y@[%`*_:ZKGL?2Y$)`B-4S'R`$11I&lt;(]"A?QW.Y;#P$9XA-D_%R0!QFQW.Y$)]"-1:F?"H.D!O.EYT!]0$JM]8[5YIOM&lt;Z+.8F6EV)VW6343$5Z6!^&gt;^4"6$UFV]V5X687T6$&gt;"^?.5;"6'.9DKYH;C4HQ@K:E[5(NKIH&lt;53'WJI6X[FU]]H5Y[(I_;ZVG(QU(\`6\4.'GXWWE=2WWX7QX$M,Y'XL/O,Y4T?_G?\6&lt;TF]`@(D@D]04BU`#Y_@DV[7%;,M&gt;;P&gt;$`UP`AX;C.LPNSD\Y$:3:U-Q!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
@@ -19,7 +17,7 @@
 	<Item Name="Timing Engine Tester.lvclass" Type="LVClass" URL="../Timing Engine Tester/Timing Engine Tester.lvclass"/>
 	<Item Name="Timing Engine Unit Test Main.vi" Type="VI" URL="../Timing Engine Unit Test Main.vi"/>
 	<Item Name="Timing Engine Unit Test.lvtest" Type="TestItem" URL="../Timing Engine Unit Test.lvtest">
-		<Property Name="utf.test.bind" Type="Str">Assert API Components.lvlib:Assert Display.lvlib:Timing Engine Tester.lvlib:Timing Engine Unit Test Main.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">64B6009D-6A20-2A97-9D90-64BF9DA5F254</Property>
+		<Property Name="utf.test.bind" Type="Str">Timing Engine Tester.lvlib:Timing Engine Unit Test Main.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">66CEAE72-F8D1-DC8F-8F60-29FD1987278B</Property>
 	</Item>
 </Library>

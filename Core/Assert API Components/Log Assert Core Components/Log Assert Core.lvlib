@@ -32,12 +32,6 @@
 		<Item Name="LAC Error Logger.lvclass" Type="LVClass" URL="../LAC Error Logger/LAC Error Logger.lvclass"/>
 	</Item>
 	<Item Name="Event Based Message Transmission" Type="Folder">
-		<Item Name="Unit Tests" Type="Folder">
-			<Item Name="Determine Failure Action" Type="Folder">
-				<Item Name="Determine Failure Action UT Main.vi" Type="VI" URL="../../../../Unit Tests/Determine Failure Action/Determine Failure Action UT Main.vi"/>
-				<Item Name="DFA Tester.lvclass" Type="LVClass" URL="../../../../Unit Tests/Determine Failure Action/DFA Tester.lvclass"/>
-			</Item>
-		</Item>
 		<Item Name="Determine Failure Action.vi" Type="VI" URL="../Event Transmission/Determine Failure Action.vi"/>
 		<Item Name="Failure Action Change Event Reference.ctl" Type="VI" URL="../Event Transmission/Failure Action Change Event Reference.ctl"/>
 		<Item Name="Get Failure Action Event.vi" Type="VI" URL="../Event Transmission/Get Failure Action Event.vi"/>
@@ -45,9 +39,6 @@
 	</Item>
 	<Item Name="Failure Actions" Type="Folder">
 		<Item Name="Abort Application" Type="Folder">
-			<Item Name="Unit Tests" Type="Folder">
-				<Item Name="Abort Application Unit Test.lvclass" Type="LVClass" URL="../../../../Unit Tests/Abort Application/Abort Application Unit Test.lvclass"/>
-			</Item>
 			<Item Name="Abort Application.lvclass" Type="LVClass" URL="../Failure Actions/Abort Application/Abort Application.lvclass"/>
 		</Item>
 		<Item Name="Log To File" Type="Folder">

@@ -46,15 +46,5 @@
 		</Item>
 		<Item Name="RCM_Actions.lvclass" Type="LVClass" URL="../Right Click Menu Actions/RCM_Actions.lvclass"/>
 	</Item>
-	<Item Name="Unit Tests" Type="Folder">
-		<Item Name="Configure Filter Unit Test" Type="Folder">
-			<Item Name="Configure Filter Unit Test.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Testing/Configure Filter Unit Test/Configure Filter Unit Test.lvclass"/>
-		</Item>
-		<Item Name="Remove Filter Unit Test" Type="Folder">
-			<Item Name="Remove Filter Unit Test.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Testing/Remove Filter/Remove Filter Unit Test.lvclass"/>
-		</Item>
-		<Item Name="FilterTest Setup.vi" Type="VI" URL="../../../Unit Tests/Filter Testing/FilterTest Setup.vi"/>
-		<Item Name="Get Filter Name Array.vi" Type="VI" URL="../../../Unit Tests/Filter Testing/Get Filter Name Array.vi"/>
-	</Item>
 	<Item Name="Main Display.lvclass" Type="LVClass" URL="../Main Display/Main Display.lvclass"/>
 </Library>

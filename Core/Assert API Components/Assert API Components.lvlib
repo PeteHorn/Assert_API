@@ -12,12 +12,6 @@
 		<Item Name="Get Configuration File Path.vi" Type="VI" URL="../../Configuration/Get Configuration File Path.vi"/>
 	</Item>
 	<Item Name="Event Communications" Type="Folder">
-		<Item Name="Unit Test" Type="Folder">
-			<Item Name="Get Assert Event Reference tests.lvclass" Type="LVClass" URL="../../../Unit Tests/Get Assert Event Reference/Get Assert Event Reference tests.lvclass"/>
-			<Item Name="Main Test.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Main Test.vi"/>
-			<Item Name="Setup.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Setup.vi"/>
-			<Item Name="Teardown.vi" Type="VI" URL="../../../Unit Tests/Get Assert Event Reference/Teardown.vi"/>
-		</Item>
 		<Item Name="Get Assert Event Reference.vi" Type="VI" URL="../Get Assert Event Reference.vi"/>
 	</Item>
 	<Item Name="Libraries" Type="Folder">
@@ -62,11 +56,6 @@
 				</Item>
 				<Item Name="Time Filters.lvclass" Type="LVClass" URL="../Filter Configurations/Time Filters/Time Filters.lvclass"/>
 			</Item>
-			<Item Name="Unit Tests" Type="Folder">
-				<Item Name="Base Filter Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/Base Filter Tester/Base Filter Tester.lvclass"/>
-				<Item Name="String Filter Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/String Filter Tester/String Filter Tester/String Filter Tester.lvclass"/>
-				<Item Name="Time Filter Tester.lvclass" Type="LVClass" URL="../../../Unit Tests/Filter Configurations Tests/Time Filter Tester/Time Filter Tester/Time Filter Tester.lvclass"/>
-			</Item>
 			<Item Name="Base Filter.lvclass" Type="LVClass" URL="../Filter Configurations/Base Filter.lvclass"/>
 		</Item>
 		<Item Name="Type Definitions" Type="Folder">
@@ -75,7 +64,6 @@
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		</Item>
 		<Item Name="Assert Display.lvlib" Type="Library" URL="../../Assert Display/Assert Display.lvlib"/>
-		<Item Name="Assert Service.lvlib" Type="Library" URL="../../Assert Service/Assert Service.lvlib"/>
 		<Item Name="Assert Startup UI.lvlib" Type="Library" URL="../../Assert Startup UI/Assert Startup UI.lvlib"/>
 		<Item Name="Base UI Actor.lvlib" Type="Library" URL="../../Base UI Actor/Base UI Actor.lvlib"/>
 		<Item Name="Log Assert Core.lvlib" Type="Library" URL="../Log Assert Core Components/Log Assert Core.lvlib"/>

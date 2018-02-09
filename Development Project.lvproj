@@ -32,6 +32,48 @@
 		<Item Name="VIP Build" Type="Folder" URL="../VIP Build">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Unit Tests" Type="Folder">
+			<Item Name="Event Communications" Type="Folder">
+				<Item Name="Get Assert Event Reference tests.lvclass" Type="LVClass" URL="../Unit Tests/Get Assert Event Reference/Get Assert Event Reference tests.lvclass"/>
+				<Item Name="Main Test.vi" Type="VI" URL="../Unit Tests/Get Assert Event Reference/Main Test.vi"/>
+			</Item>
+			<Item Name="Filters" Type="Folder">
+				<Item Name="Base Filter Tester.lvclass" Type="LVClass" URL="../Unit Tests/Filter Configurations Tests/Base Filter Tester/Base Filter Tester.lvclass"/>
+				<Item Name="String Filter Tester.lvclass" Type="LVClass" URL="../Unit Tests/Filter Configurations Tests/String Filter Tester/String Filter Tester/String Filter Tester.lvclass"/>
+				<Item Name="Time Filter Tester.lvclass" Type="LVClass" URL="../Unit Tests/Filter Configurations Tests/Time Filter Tester/Time Filter Tester/Time Filter Tester.lvclass"/>
+			</Item>
+			<Item Name="Main Display" Type="Folder">
+				<Item Name="Configure Filter Unit Test" Type="Folder">
+					<Item Name="Configure Filter Unit Test.lvclass" Type="LVClass" URL="../Unit Tests/Filter Testing/Configure Filter Unit Test/Configure Filter Unit Test.lvclass"/>
+				</Item>
+				<Item Name="Remove Filter Unit Test" Type="Folder">
+					<Item Name="Remove Filter Unit Test.lvclass" Type="LVClass" URL="../Unit Tests/Filter Testing/Remove Filter/Remove Filter Unit Test.lvclass"/>
+				</Item>
+				<Item Name="FilterTest Setup.vi" Type="VI" URL="../Unit Tests/Filter Testing/FilterTest Setup.vi"/>
+				<Item Name="Get Filter Name Array.vi" Type="VI" URL="../Unit Tests/Filter Testing/Get Filter Name Array.vi"/>
+			</Item>
+			<Item Name="Timing Engine" Type="Folder">
+				<Item Name="Timing Engine Tester.lvlib" Type="Library" URL="../Unit Tests/Timing Engine Tester/Timing Engine Tester.lvlib"/>
+			</Item>
+			<Item Name="Abort Application" Type="Folder">
+				<Item Name="Abort Application Unit Test.lvclass" Type="LVClass" URL="../Unit Tests/Abort Application/Abort Application Unit Test.lvclass"/>
+			</Item>
+			<Item Name="Determine Failure Action" Type="Folder">
+				<Item Name="DFA Tester.lvclass" Type="LVClass" URL="../Unit Tests/Determine Failure Action/DFA Tester.lvclass"/>
+				<Item Name="Determine Failure Action UT Main.vi" Type="VI" URL="../Unit Tests/Determine Failure Action/Determine Failure Action UT Main.vi"/>
+			</Item>
+			<Item Name="New Assert Message Unit Test" Type="Folder">
+				<Item Name="New Assert Message.lvtest" Type="TestItem" URL="../Unit Tests/New Assert Message/New Assert Message.lvtest">
+					<Property Name="utf.test.bind" Type="Str">Assert API Components.lvlib:Assert Display.lvlib:Main Display.lvlib:Standard Display Configuration.lvclass:New Assert Msg UT Main.vi</Property>
+					<Property Name="utf.vector.test.bind" Type="Str">0A729D7B-8823-4189-59A1-EE66A364B4A4</Property>
+				</Item>
+				<Item Name="New Assert Msg UT Main.vi" Type="VI" URL="../Unit Tests/New Assert Message/New Assert Msg UT Main.vi"/>
+				<Item Name="New Assert Msg UT Setup.vi" Type="VI" URL="../Unit Tests/New Assert Message/New Assert Msg UT Setup.vi"/>
+			</Item>
+		</Item>
+		<Item Name="Unused Code" Type="Folder">
+			<Item Name="Assert Service.lvlib" Type="Library" URL="../Core/Assert Service/Assert Service.lvlib"/>
+		</Item>
 		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Core/Assert API Components/Assert API Components.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
