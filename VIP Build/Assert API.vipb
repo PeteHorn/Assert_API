@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-02-08 16:47:39" Creator="UKHornP" Comments="" ID="127248e1f2998f8bff12a4ff7b935f4c">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-02-09 13:40:47" Creator="UKHornP" Comments="" ID="b8c5b63823199d14c03a28e6621e48ec">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.11</Library_Version>
+    <Library_Version>1.0.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
@@ -105,6 +105,12 @@
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
         <Path>&lt;OS User Documents&gt;\LabVIEW Data\Assert API Support</Path>
       </Additional_Destination>
+      <Additional_Destination>
+        <Name>Configuration File(s)</Name>
+        <LLB>false</LLB>
+        <Preserve_Hierarchy>true</Preserve_Hierarchy>
+        <Path>&lt;vi.lib&gt;\Assert API\Core\Configuration</Path>
+      </Additional_Destination>
     </Destinations>
     <Source_Files>
       <Destination_Overrides>
@@ -142,6 +148,12 @@
         <Destination>7</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Core/Configuration/Assert API Configuration.ini</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>2</Additional_Destination_Index>
       </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
