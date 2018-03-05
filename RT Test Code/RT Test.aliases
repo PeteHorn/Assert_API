@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "192.168.56.1"
+My Computer = "10.100.6.51"
 
 [PeterHornTesting]
 PeterHornTesting = "10.100.1.143"
