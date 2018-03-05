@@ -27,7 +27,6 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Build Right Click Menu Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Build Right Click Menu Msg/Build Right Click Menu Msg.lvclass"/>
 		<Item Name="Configure Filter Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Configure Filter Msg/Configure Filter Msg.lvclass"/>
-		<Item Name="Create UDP Service Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Create UDP Service Msg/Create UDP Service Msg.lvclass"/>
 		<Item Name="New Assert Message Msg.lvclass" Type="LVClass" URL="../Main Display Messages/New Assert Message Msg/New Assert Message Msg.lvclass"/>
 		<Item Name="Remove Named Filter Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Remove Named Filter Msg/Remove Named Filter Msg.lvclass"/>
 		<Item Name="Set Column Header Msg.lvclass" Type="LVClass" URL="../Main Display Messages/Set Column Header Msg/Set Column Header Msg.lvclass"/>
