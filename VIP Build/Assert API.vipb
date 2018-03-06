@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-02-09 13:40:47" Creator="UKHornP" Comments="" ID="b8c5b63823199d14c03a28e6621e48ec">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-06 10:11:07" Creator="UKHornP" Comments="" ID="bc65e9be1f196cafbf68ee6d306036d9">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.0.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
@@ -191,9 +191,6 @@
       </Exclusions>
       <Exclusions>
         <Path>VIP Build</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Core/Assert Service</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>

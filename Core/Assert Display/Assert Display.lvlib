@@ -15,7 +15,6 @@
 			<Item Name="Children" Type="Folder">
 				<Item Name="Filter Config Display.lvlib" Type="Library" URL="../../Filter Config Display/Filter Config Display.lvlib"/>
 				<Item Name="Main Display.lvlib" Type="Library" URL="../../Main Display/Main Display.lvlib"/>
-				<Item Name="Service Config Display.lvlib" Type="Library" URL="../../Service Config Display/Service Config Display.lvlib"/>
 			</Item>
 			<Item Name="Base UI Component.lvlib" Type="Library" URL="../../Base UI Component/Base UI Component.lvlib"/>
 		</Item>
