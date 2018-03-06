@@ -48,6 +48,5 @@
 			<Item Name="Pause Application.lvclass" Type="LVClass" URL="../Failure Actions/Pause Application/Pause Application.lvclass"/>
 		</Item>
 		<Item Name="Fail Action Base.lvclass" Type="LVClass" URL="../Failure Actions/Fail Action Base.lvclass"/>
-		<Item Name="Handle Failure Action.vi" Type="VI" URL="../Handle Failure Action.vi"/>
 	</Item>
 </Library>

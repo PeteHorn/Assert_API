@@ -627,49 +627,6 @@
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
 			</Item>
-			<Item Name="Deployment Source" Type="Source Distribution">
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{5FE0459C-49E5-4DD6-B78C-C56BF0349493}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Deployment Source</Property>
-				<Property Name="Bld_excludedDirectory[0]" Type="Path">vi.lib</Property>
-				<Property Name="Bld_excludedDirectory[0].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectory[1]" Type="Path">resource/objmgr</Property>
-				<Property Name="Bld_excludedDirectory[1].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectory[2]" Type="Path">/C/ProgramData/National Instruments/InstCache/16.0</Property>
-				<Property Name="Bld_excludedDirectory[3]" Type="Path">../LabVIEW Data/2016(32-bit)/ExtraVILib</Property>
-				<Property Name="Bld_excludedDirectory[3].pathType" Type="Str">relativeToCommon</Property>
-				<Property Name="Bld_excludedDirectory[4]" Type="Path">instr.lib</Property>
-				<Property Name="Bld_excludedDirectory[4].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectory[5]" Type="Path">user.lib</Property>
-				<Property Name="Bld_excludedDirectory[5].pathType" Type="Str">relativeToAppDir</Property>
-				<Property Name="Bld_excludedDirectoryCount" Type="Int">6</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../Deployment Source Distribution</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{1D017AF0-C83C-47F6-9AE9-B713DB5346C0}</Property>
-				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
-				<Property Name="Destination[0].path" Type="Path">../Deployment Source Distribution</Property>
-				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
-				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
-				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../Deployment Source Distribution/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
-				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{41D98EC4-A803-43EB-8B62-426EB734153E}</Property>
-				<Property Name="Source[0].type" Type="Str">Container</Property>
-				<Property Name="Source[1].Container.applyInclusion" Type="Bool">true</Property>
-				<Property Name="Source[1].Container.depDestIndex" Type="Int">0</Property>
-				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Plugins</Property>
-				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[1].type" Type="Str">Container</Property>
-				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[2].itemID" Type="Ref">/My Computer/Assert API Components.lvlib</Property>
-				<Property Name="Source[2].Library.allowMissingMembers" Type="Bool">true</Property>
-				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
-				<Property Name="Source[2].type" Type="Str">Library</Property>
-				<Property Name="SourceCount" Type="Int">3</Property>
-			</Item>
 		</Item>
 	</Item>
 </Project>
