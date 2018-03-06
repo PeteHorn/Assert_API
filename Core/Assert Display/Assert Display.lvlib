@@ -29,8 +29,6 @@
 		<Item Name="Filter By Time.ctl" Type="VI" URL="../../Assert API Components/Filter By Time.ctl"/>
 		<Item Name="Filter Type.ctl" Type="VI" URL="../../Assert API Components/Filter Type.ctl"/>
 		<Item Name="Item Configuration.ctl" Type="VI" URL="../Assert Display/Item Configuration.ctl"/>
-		<Item Name="Items.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Items.ctl"/>
-		<Item Name="Service Details.ctl" Type="VI" URL="../../Service Config Display/Service Config Display/Service Details.ctl"/>
 		<Item Name="Build Filter.vi" Type="VI" URL="../Components/Build Filter.vi"/>
 		<Item Name="Boolean Filter Configuration.ctl" Type="VI" URL="../../Assert API Components/Boolean Filter Configuration.ctl"/>
 		<Item Name="String Filter Configuration.ctl" Type="VI" URL="../../Assert API Components/String Filter Configuration.ctl"/>
