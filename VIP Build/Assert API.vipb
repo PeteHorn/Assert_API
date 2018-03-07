@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-06 16:39:49" Creator="UKHornP" Comments="" ID="997dd6e9d7c0af0b83963f9dac9087a3">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-07 08:59:59" Creator="UKHornP" Comments="" ID="7ab09df03ecc33d263b11c6636604449">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.24</Library_Version>
+    <Library_Version>1.0.0.25</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
