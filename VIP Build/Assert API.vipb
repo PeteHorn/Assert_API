@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-08 10:29:33" Creator="UKHornP" Comments="" ID="01770bde6e91a15acdc852847c38c54f">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-08 13:10:00" Creator="UKHornP" Comments="" ID="e09ad07a05965d216db461bf2493607e">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.28</Library_Version>
+    <Library_Version>1.0.0.31</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Peter Horn</Packager>
       <URL/>
-      <Release_Notes>Sorting out the Show Assert feature</Release_Notes>
+      <Release_Notes>Sorting out the Show Assert feature - changed around the templates to use call chain for the calling vi name which should allow it to handle clones, also had to add in the clone name to the unique ID for an assert</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -185,9 +185,6 @@
       </Exclusions>
       <Exclusions>
         <Path>Development Project.lvproj</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Plugins/QD Code/Pre-Build Action.vi</Path>
       </Exclusions>
       <Exclusions>
         <Path>VIP Build</Path>
