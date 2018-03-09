@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-09 09:49:09" Creator="UKHornP" Comments="" ID="9d54c23f6c23688409185339a7c35265">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-09 14:16:30" Creator="UKHornP" Comments="" ID="741ec29edcc93002371f6221f5e2c45b">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.32</Library_Version>
+    <Library_Version>1.0.0.33</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
@@ -32,7 +32,8 @@
       <Copyright/>
       <Packager>Peter Horn</Packager>
       <URL/>
-      <Release_Notes>Modified the sciprting for floating point numbers to change the digits of precision. Only change the constant display format so far, need to move this on to change the actual comparison precision.</Release_Notes>
+      <Release_Notes>Modified the sciprting for floating point numbers to change the digits of precision. Only change the constant display format so far, need to move this on to change the actual comparison precision.
+Added in code to the templates for floating point comparison to a specified precision, and then the scripting code to enable this.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
