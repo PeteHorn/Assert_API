@@ -64,7 +64,6 @@
 			<Item Name="Message Data.ctl" Type="VI" URL="../Message Data.ctl"/>
 		</Item>
 		<Item Name="Assert Display.lvlib" Type="Library" URL="../../Assert Display/Assert Display.lvlib"/>
-		<Item Name="Assert Startup UI.lvlib" Type="Library" URL="../../Assert Startup UI/Assert Startup UI.lvlib"/>
 		<Item Name="Base UI Actor.lvlib" Type="Library" URL="../../Base UI Actor/Base UI Actor.lvlib"/>
 		<Item Name="Log Assert Core.lvlib" Type="Library" URL="../Log Assert Core Components/Log Assert Core.lvlib"/>
 	</Item>

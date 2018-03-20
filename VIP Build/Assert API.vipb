@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-20 10:57:11" Creator="UKHornP" Comments="" ID="8e7a94f34267ff8799511e87ac859488">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-20 11:59:39" Creator="UKHornP" Comments="" ID="3a28329d2c19a61414c89ccdc34bdd3b">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.34</Library_Version>
+    <Library_Version>2.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
@@ -32,8 +32,7 @@
       <Copyright/>
       <Packager>Peter Horn</Packager>
       <URL/>
-      <Release_Notes>Modified the startup procedure to open the UI directly rather than Open Local Instance, as I'm not doing network instances anymore.
-Also solved a small bug in the Abort Application class where the dialog was not displayed on a deployment PC because of a conditional disable symbol not being present.</Release_Notes>
+      <Release_Notes>Mostly working nicely - solved a small bug with number of digits of precision on floating point comparison tests</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
