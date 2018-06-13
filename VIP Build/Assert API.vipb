@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-06-13 16:13:59" Creator="UKHornP" Comments="" ID="35f36793166ae1c8b86a2ebffbcace31">
   <Library_General_Settings>
     <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
     <Library_Version>3.0.0.5</Library_Version>
+=======
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-31 16:20:29" Modified_Date="2018-03-20 16:12:50" Creator="UKHornP" Comments="" ID="e4196ec3de9100c8cc0fbf195ee155f3">
+  <Library_General_Settings>
+    <Package_File_Name>Peter_Horn_lib_Assert_API</Package_File_Name>
+    <Library_Version>2.0.0.4</Library_Version>
+>>>>>>> c4c54ad5b5c49b2c1e7378abb70403a2200705cd
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>..\..\Assert API Builds</Library_Output_Folder>
@@ -32,7 +39,11 @@
       <Copyright/>
       <Packager>Peter Horn</Packager>
       <URL/>
+<<<<<<< HEAD
       <Release_Notes>Built into 2017 - also added eval string labels.</Release_Notes>
+=======
+      <Release_Notes>Mostly working nicely - solved a small bug with number of digits of precision on floating point comparison tests</Release_Notes>
+>>>>>>> c4c54ad5b5c49b2c1e7378abb70403a2200705cd
     </Description>
     <Destinations>
       <Toolkit_VIs>
