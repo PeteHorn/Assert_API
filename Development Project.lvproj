@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="18008000">
-	<Property Name="CCSymbols" Type="Str">AssertDebug,ON;UnitTest,OFF;</Property>
+	<Property Name="CCSymbols" Type="Str">AssertDebug,ON;UnitTest,ON;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
