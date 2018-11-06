@@ -377,6 +377,9 @@
 				<Item Name="BC06B3DA0B3D6A2EA18E924D4B2DFEB4" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/BC06B3DA0B3D6A2EA18E924D4B2DFEB4"/>
 				<Item Name="FC570559B300C60CD1CC5EF9246E75AE" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/FC570559B300C60CD1CC5EF9246E75AE"/>
 				<Item Name="16EECC8F9F28C81E75F251C77B486376" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/VI Tester/_support/Support.llb/16EECC8F9F28C81E75F251C77B486376"/>
+				<Item Name="JSONtext.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JSONtext/JSONtext.lvlib"/>
+				<Item Name="JDP Utility.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JDP Science Common Utilities/JDP Utility.lvlib"/>
+				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Current VIs Parents Ref__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Current VIs Parents Ref__ogtk.vi"/>
