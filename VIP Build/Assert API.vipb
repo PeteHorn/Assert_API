@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-11-01 09:29:02" Modified_Date="2018-11-05 15:51:23" Creator="UKHornP" Comments="" ID="527b69ce3a5d4dcb63a3bb264861bc13">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-11-01 09:29:02" Modified_Date="2018-11-07 15:46:22" Creator="UKHornP" Comments="" ID="6c1842d08616af6519889b68d3bbbf7d">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.0.13</Library_Version>
+    <Library_Version>1.0.0.17</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>\\zaphod\Public\PeteHorn\AssertAPI Builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Peter Horn</Packager>
       <URL/>
-      <Release_Notes>Rebuilding the VIPB</Release_Notes>
+      <Release_Notes>Updating the assert creation process - hoping inline/fork and CDS placement options are working correctly now....</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -154,6 +154,12 @@
         <Destination>0</Destination>
         <Additional_Destination>true</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Plugins/Wizard Config</Path>
+        <Destination>0</Destination>
+        <Additional_Destination>true</Additional_Destination>
+        <Additional_Destination_Index>1</Additional_Destination_Index>
       </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>

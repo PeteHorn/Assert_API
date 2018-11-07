@@ -62,14 +62,6 @@
 				<Item Name="DFA Tester.lvclass" Type="LVClass" URL="../Unit Tests/Determine Failure Action/DFA Tester.lvclass"/>
 				<Item Name="Determine Failure Action UT Main.vi" Type="VI" URL="../Unit Tests/Determine Failure Action/Determine Failure Action UT Main.vi"/>
 			</Item>
-			<Item Name="New Assert Message Unit Test" Type="Folder">
-				<Item Name="New Assert Message.lvtest" Type="TestItem" URL="../Unit Tests/New Assert Message/New Assert Message.lvtest">
-					<Property Name="utf.test.bind" Type="Str">Assert API Components.lvlib:Assert Display.lvlib:Main Display.lvlib:Standard Display Configuration.lvclass:New Assert Msg UT Main.vi</Property>
-					<Property Name="utf.vector.test.bind" Type="Str">0A729D7B-8823-4189-59A1-EE66A364B4A4</Property>
-				</Item>
-				<Item Name="New Assert Msg UT Main.vi" Type="VI" URL="../Unit Tests/New Assert Message/New Assert Msg UT Main.vi"/>
-				<Item Name="New Assert Msg UT Setup.vi" Type="VI" URL="../Unit Tests/New Assert Message/New Assert Msg UT Setup.vi"/>
-			</Item>
 		</Item>
 		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Core/Assert API Components/Assert API Components.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
