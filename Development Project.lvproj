@@ -28,6 +28,7 @@
 		<Item Name="Plugin Unit Tests" Type="Folder">
 			<Item Name="Post Build Action Tester.lvclass" Type="LVClass" URL="../Unit Tests/Post Build Action Tester/Post Build Action Tester.lvclass"/>
 			<Item Name="Create New Assert Tester.lvclass" Type="LVClass" URL="../Unit Tests/Create New Assert/Create New Assert Tester.lvclass"/>
+			<Item Name="Find Disable Structure.lvclass" Type="LVClass" URL="../Unit Tests/Find Disable Structure/Find Disable Structure/Find Disable Structure.lvclass"/>
 		</Item>
 		<Item Name="VIP Build" Type="Folder" URL="../VIP Build">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
