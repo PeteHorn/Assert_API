@@ -536,7 +536,7 @@
 				<Property Name="Source[6].itemID" Type="Ref">/My Computer/Plugins/Utility/Assert Scripting Configuration.ctl</Property>
 				<Property Name="Source[6].type" Type="Str">VI</Property>
 				<Property Name="Source[7].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Plugins/Utility/Build Assert VI Path.vi</Property>
+				<Property Name="Source[7].itemID" Type="Ref">/My Computer/Plugins/Utility/Create Assert VI.vi</Property>
 				<Property Name="Source[7].type" Type="Str">VI</Property>
 				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Plugins/Utility/Build Assert VI.vi</Property>
