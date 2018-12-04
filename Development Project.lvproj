@@ -144,10 +144,8 @@
 				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="Recursive File List.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Recursive File List.vi"/>
-				<Item Name="Compare Two Paths.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Compare Two Paths.vi"/>
 				<Item Name="Generate Temporary File Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Generate Temporary File Path.vi"/>
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
-				<Item Name="LVComboBoxStrsAndValuesArrayTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVComboBoxStrsAndValuesArrayTypeDef.ctl"/>
 				<Item Name="NI_SystemLogging.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/SystemLogging/NI_SystemLogging.lvlib"/>
 				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 				<Item Name="TRef Find Object By Label.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Find Object By Label.vi"/>
@@ -397,6 +395,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
+			<Item Name="Multiple Assert Build.vi" Type="VI" URL="../Plugins/Utility/Multiple Assert Build.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Quick Drop Plugin Test" Type="Source Distribution">
@@ -417,7 +416,7 @@
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/ukhornp/Documents/LabVIEW Data/Quick Drop Plugins</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Plugins/Utility/Post-Build Action.vi</Property>
+				<Property Name="Bld_postActionVIID" Type="Ref"></Property>
 				<Property Name="Bld_preActionVIID" Type="Ref"></Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{1E8480E1-0EEC-4F73-A802-3BCF59A10B11}</Property>
 				<Property Name="Bld_version.build" Type="Int">29</Property>
@@ -441,13 +440,13 @@
 				<Property Name="Source[10].itemID" Type="Ref">/My Computer/Plugins/Utility/Change BD Constant Value.vi</Property>
 				<Property Name="Source[10].type" Type="Str">VI</Property>
 				<Property Name="Source[11].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[11].itemID" Type="Ref">/My Computer/Plugins/Utility/Change Numeric Constant Type.vi</Property>
+				<Property Name="Source[11].itemID" Type="Ref"></Property>
 				<Property Name="Source[11].type" Type="Str">VI</Property>
 				<Property Name="Source[12].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[12].itemID" Type="Ref">/My Computer/Plugins/Utility/Change VI Description.vi</Property>
 				<Property Name="Source[12].type" Type="Str">VI</Property>
 				<Property Name="Source[13].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[13].itemID" Type="Ref">/My Computer/Plugins/Utility/Changes Constant Types.vi</Property>
+				<Property Name="Source[13].itemID" Type="Ref"></Property>
 				<Property Name="Source[13].type" Type="Str">VI</Property>
 				<Property Name="Source[14].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[14].itemID" Type="Ref">/My Computer/Plugins/Utility/Comparison Captions.ctl</Property>
@@ -486,7 +485,7 @@
 				<Property Name="Source[23].itemID" Type="Ref">/My Computer/Plugins/Utility/Get Paths.vi</Property>
 				<Property Name="Source[23].type" Type="Str">VI</Property>
 				<Property Name="Source[24].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[24].itemID" Type="Ref">/My Computer/Plugins/Utility/Get Set Operation.vi</Property>
+				<Property Name="Source[24].itemID" Type="Ref"></Property>
 				<Property Name="Source[24].type" Type="Str">VI</Property>
 				<Property Name="Source[25].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[25].itemID" Type="Ref">/My Computer/Plugins/Utility/Get Wire Data Type.vi</Property>
@@ -495,7 +494,7 @@
 				<Property Name="Source[26].itemID" Type="Ref">/My Computer/Plugins/Utility/Icon Colours.ctl</Property>
 				<Property Name="Source[26].type" Type="Str">VI</Property>
 				<Property Name="Source[27].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[27].itemID" Type="Ref">/My Computer/Plugins/Utility/Initialise QuickDrop UI.vi</Property>
+				<Property Name="Source[27].itemID" Type="Ref"></Property>
 				<Property Name="Source[27].type" Type="Str">VI</Property>
 				<Property Name="Source[28].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[28].itemID" Type="Ref">/My Computer/Plugins/Utility/Numeric Operations.ctl</Property>
