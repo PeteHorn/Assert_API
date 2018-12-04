@@ -26,7 +26,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Configure test.vi" Type="VI" URL="../Configure test.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&gt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-P````]/18.T:8*U)&amp;:*)&amp;"B&gt;'A!!#"!-0````]828BJ=X2J&lt;G=A586F&gt;75A27RF&lt;76O&gt;(-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!I1(!!(A!!%B"'5#"&amp;=86B&lt;#ZM&gt;G.M98.T!!!,2F!A28&amp;V97QA;7Y!6!$Q!!Q!!Q!%!!1!"!!%!!1!"1!'!!=!"!!%!!A$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!"#A!!!!I!!!!!!!!!!!!!!*!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&gt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-P````]/18.T:8*U)&amp;:*)&amp;"B&gt;'A!!#"!-0````]828BJ=X2J&lt;G=A586F&gt;75A27RF&lt;76O&gt;(-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!I1(!!(A!!%B"'5#"&amp;=86B&lt;#ZM&gt;G.M98.T!!!,2F!A28&amp;V97QA;7Y!6!$Q!!Q!!Q!%!!1!"!!%!!1!"1!'!!=!"!!%!!A$!!"Y!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!"#A!!!!I!!!!!!!!!!!!!!*)!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>

@@ -443,7 +443,7 @@
 				<Property Name="Source[11].itemID" Type="Ref"></Property>
 				<Property Name="Source[11].type" Type="Str">VI</Property>
 				<Property Name="Source[12].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[12].itemID" Type="Ref">/My Computer/Plugins/Utility/Change VI Description.vi</Property>
+				<Property Name="Source[12].itemID" Type="Ref"></Property>
 				<Property Name="Source[12].type" Type="Str">VI</Property>
 				<Property Name="Source[13].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[13].itemID" Type="Ref"></Property>
