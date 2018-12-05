@@ -83,7 +83,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="Configure test.vi" Type="VI" URL="../Configure test.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&lt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-P````]/18.T:8*U)&amp;:*)&amp;"B&gt;'A!!#"!-0````]828BJ=X2J&lt;G=A586F&gt;75A27RF&lt;76O&gt;(-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!G1(!!(A!!$AR5:8.U,GRW9WRB=X-!!!V#98.J9S"5:8.U)'FO!&amp;1!]!!-!!-!"!!%!!1!"!!%!!5!"A!(!!1!"!!)!Q!!?!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!!!1I!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#1!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%^!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#*!=!!?!!!/$&amp;2F=X1O&lt;(:D&lt;'&amp;T=Q!!#&amp;2F=X1A&lt;X6U!!!91$,`````$E&amp;T=W6S&gt;#"733"1982I!!!A1$$`````&amp;U6Y;8.U;7ZH)&amp;&amp;V:86F)%6M:7VF&lt;H2T!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!*E"Q!"Y!!!Y-6'6T&gt;#ZM&gt;G.M98.T!!!.1G&amp;T;7-A6'6T&gt;#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!'!!=!#!!%!!1!#1-!!(A!!!E!!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!A!!!%+!!!!#A!!!!!!!!!!!!!!EA!!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
