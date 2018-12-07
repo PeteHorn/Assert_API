@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="18008000">
-	<Property Name="CCSymbols" Type="Str">AssertDebug,ON;UnitTest,OFF;</Property>
+	<Property Name="CCSymbols" Type="Str">AssertDebug,OFF;UnitTest,OFF;AssertDevMode,TRUE;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -30,6 +30,7 @@
 			<Item Name="Create New Assert Tester.lvclass" Type="LVClass" URL="../Unit Tests/Create New Assert/Create New Assert Tester.lvclass"/>
 			<Item Name="Find Disable Structure.lvclass" Type="LVClass" URL="../Unit Tests/Find Disable Structure/Find Disable Structure/Find Disable Structure.lvclass"/>
 			<Item Name="AddGet Parameters.lvclass" Type="LVClass" URL="../Unit Tests/AddGet Test Parameters/AddGet Parameters/AddGet Parameters.lvclass"/>
+			<Item Name="Build Eval Str Test Case.lvclass" Type="LVClass" URL="../Unit Tests/Build Evaluation String/Build Eval Str Test Case/Build Eval Str Test Case.lvclass"/>
 		</Item>
 		<Item Name="VIP Build" Type="Folder" URL="../VIP Build">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
