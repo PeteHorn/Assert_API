@@ -80,15 +80,6 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
 		</Item>
-		<Item Name="Name Assert Display.vi" Type="VI" URL="../Name Assert Display.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'4!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!R!)1:#&gt;7FM:$]!!':!=!!?!!"*'U&amp;T=W6S&gt;#""5%EA1W^N='^O:7ZU=SZM&gt;GRJ9B2"=X.F=H1A2'FT='RB?3ZM&gt;GRJ9B:"=X.F=H1A2'FT='RB?3ZM&gt;G.M98.T!"*"=X.F=H1A2'FT='RB?3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!:%"Q!"Y!!%E&lt;18.T:8*U)%&amp;133"$&lt;WVQ&lt;WZF&lt;H2T,GRW&lt;'FC&amp;%&amp;T=W6S&gt;#"%;8.Q&lt;'&amp;Z,GRW&lt;'FC&amp;E&amp;T=W6S&gt;#"%;8.Q&lt;'&amp;Z,GRW9WRB=X-!%5&amp;T=W6S&gt;#"%;8.Q&lt;'&amp;Z)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!3!!!!!!%!#1!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">33088</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1074274832</Property>
-		</Item>
 	</Item>
 	<Item Name="Message Methods" Type="Folder">
 		<Item Name="Change Screen.vi" Type="VI" URL="../Change Screen.vi">
