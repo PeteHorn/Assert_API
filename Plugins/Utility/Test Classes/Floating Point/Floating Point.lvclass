@@ -35,7 +35,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 	</Item>
 	<Item Name="Create Evaluation String.vi" Type="VI" URL="../Create Evaluation String.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;"!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!9&amp;E:M&lt;W&amp;U;7ZH)&amp;"P;7ZU,GRW9WRB=X-!!"*'&lt;'^B&gt;'FO:S"1&lt;WFO&gt;#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'E!Q`````R&amp;&amp;&gt;G&amp;M&gt;7&amp;U;7^O)&amp;.U=GFO:Q!U1(!!(A!!'":'&lt;'^B&gt;'FO:S"1&lt;WFO&gt;#ZM&gt;G.M98.T!!!22GRP982J&lt;G=A5'^J&lt;H1A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!"#A!!!*)!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;"!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!9&amp;E:M&lt;W&amp;U;7ZH)&amp;"P;7ZU,GRW9WRB=X-!!"*'&lt;'^B&gt;'FO:S"1&lt;WFO&gt;#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!'E!Q`````R&amp;&amp;&gt;G&amp;M&gt;7&amp;U;7^O)&amp;.U=GFO:Q!U1(!!(A!!'":'&lt;'^B&gt;'FO:S"1&lt;WFO&gt;#ZM&gt;G.M98.T!!!22GRP982J&lt;G=A5'^J&lt;H1A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!A$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!*)!!!!!!1!*!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
