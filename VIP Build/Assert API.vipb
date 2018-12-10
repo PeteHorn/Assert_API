@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-11-01 09:29:02" Modified_Date="2018-12-05 13:45:10" Creator="UKHornP" Comments="" ID="941e252a17fc86a9e812ae74a9d61f88">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-11-01 09:29:02" Modified_Date="2018-12-10 11:36:27" Creator="UKHornP" Comments="" ID="3ae5674577aa3db4e1df1c4b06e0e76c">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
-    <Library_Version>1.0.1.21</Library_Version>
+    <Library_Version>1.0.1.22</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>\\zaphod\Public\PeteHorn\AssertAPI Builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager>Peter Horn</Packager>
       <URL/>
-      <Release_Notes>Using vim's for the template vi's - will continue to develop this idea.</Release_Notes>
+      <Release_Notes>Removed the option to add an assert inline, only able to add asserts on forks now. More memory efficient and simpler</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
