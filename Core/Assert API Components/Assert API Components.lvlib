@@ -70,7 +70,6 @@
 	<Item Name="Public" Type="Folder">
 		<Item Name="Components" Type="Folder">
 			<Item Name="Failure Actions.ctl" Type="VI" URL="../Failure Actions.ctl"/>
-			<Item Name="Timeouts.ctl" Type="VI" URL="../Log Assert Core Components/Timeouts.ctl"/>
 		</Item>
 		<Item Name="Log Assert Core.vi" Type="VI" URL="../Log Assert Core.vi"/>
 	</Item>
