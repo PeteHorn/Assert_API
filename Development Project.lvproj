@@ -99,6 +99,7 @@
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
@@ -389,20 +390,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="Main Display.lvclass" Type="LVClass" URL="../Core/Main Display/Main Display/Main Display.lvclass"/>
-			<Item Name="Build Right Click Menu.vi" Type="VI" URL="../Core/Main Display/Main Display/Build Right Click Menu.vi"/>
-			<Item Name="Get Available Column Headers.vi" Type="VI" URL="../Core/Main Display/Main Display/Get Available Column Headers.vi"/>
-			<Item Name="Build Failure Action Menu.vi" Type="VI" URL="../Core/Main Display/Main Display/Build Failure Action Menu.vi"/>
-			<Item Name="Main Display.ctl" Type="VI" URL="../Core/Main Display/Main Display/Main Display.lvclass/Main Display.ctl"/>
-			<Item Name="Configure Filter.vi" Type="VI" URL="../Core/Main Display/Main Display/Configure Filter.vi"/>
-			<Item Name="New Assert Message.vi" Type="VI" URL="../Core/Main Display/Main Display/New Assert Message.vi"/>
-			<Item Name="Remove Named Filter.vi" Type="VI" URL="../Core/Main Display/Main Display/Remove Named Filter.vi"/>
-			<Item Name="Set Column Header.vi" Type="VI" URL="../Core/Main Display/Main Display/Set Column Header.vi"/>
-			<Item Name="Set Display Colours.vi" Type="VI" URL="../Core/Main Display/Main Display/Set Display Colours.vi"/>
-			<Item Name="Update UI.vi" Type="VI" URL="../Core/Main Display/Main Display/Update UI.vi"/>
-			<Item Name="Launch Dynamic Filter Window.vi" Type="VI" URL="../Core/Main Display/Main Display/Launch Dynamic Filter Window.vi"/>
-			<Item Name="Write Filter Configuration Array.vi" Type="VI" URL="../Core/Main Display/Main Display/Write Filter Configuration Array.vi"/>
-			<Item Name="Read Filter Configuration Array.vi" Type="VI" URL="../Core/Main Display/Main Display/Read Filter Configuration Array.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Quick Drop Plugin Test" Type="Source Distribution">
@@ -547,7 +534,7 @@
 				<Property Name="Source[7].itemID" Type="Ref"></Property>
 				<Property Name="Source[7].type" Type="Str">VI</Property>
 				<Property Name="Source[8].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[8].itemID" Type="Ref"></Property>
+				<Property Name="Source[8].itemID" Type="Ref">/My Computer/Plugins/Utility/Build Assert VI.vi</Property>
 				<Property Name="Source[8].type" Type="Str">VI</Property>
 				<Property Name="Source[9].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[9].itemID" Type="Ref">/My Computer/Plugins/Utility/Build Evaluation String.vi</Property>
