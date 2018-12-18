@@ -370,6 +370,7 @@
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="Assert Real Floating-Point Numeric Type.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/TypeAssert/Assert Real Floating-Point Numeric Type.vim"/>
+				<Item Name="LVRowAndColumnTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRowAndColumnTypeDef.ctl"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Fit VI window to Largest Dec__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/appcontrol/appcontrol.llb/Fit VI window to Largest Dec__ogtk.vi"/>
@@ -389,18 +390,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="Main Display.lvclass" Type="LVClass" URL="../Core/Main Display/Main Display/Main Display.lvclass"/>
-			<Item Name="Build Right Click Menu.vi" Type="VI" URL="../Core/Main Display/Main Display/Build Right Click Menu.vi"/>
-			<Item Name="Get Available Column Headers.vi" Type="VI" URL="../Core/Main Display/Main Display/Get Available Column Headers.vi"/>
-			<Item Name="Build Failure Action Menu.vi" Type="VI" URL="../Core/Main Display/Main Display/Build Failure Action Menu.vi"/>
-			<Item Name="Main Display.ctl" Type="VI" URL="../Core/Main Display/Main Display/Main Display.lvclass/Main Display.ctl"/>
-			<Item Name="Configure Filter.vi" Type="VI" URL="../Core/Main Display/Main Display/Configure Filter.vi"/>
-			<Item Name="New Assert Message.vi" Type="VI" URL="../Core/Main Display/Main Display/New Assert Message.vi"/>
-			<Item Name="Remove Named Filter.vi" Type="VI" URL="../Core/Main Display/Main Display/Remove Named Filter.vi"/>
-			<Item Name="Set Column Header.vi" Type="VI" URL="../Core/Main Display/Main Display/Set Column Header.vi"/>
-			<Item Name="Set Display Colours.vi" Type="VI" URL="../Core/Main Display/Main Display/Set Display Colours.vi"/>
-			<Item Name="Update UI.vi" Type="VI" URL="../Core/Main Display/Main Display/Update UI.vi"/>
-			<Item Name="Launch Dynamic Filter Window.vi" Type="VI" URL="../Core/Main Display/Main Display/Launch Dynamic Filter Window.vi"/>
 			<Item Name="Write Filter Configuration Array.vi" Type="VI" URL="../Core/Main Display/Main Display/Write Filter Configuration Array.vi"/>
 			<Item Name="Read Filter Configuration Array.vi" Type="VI" URL="../Core/Main Display/Main Display/Read Filter Configuration Array.vi"/>
 		</Item>
