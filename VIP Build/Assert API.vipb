@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2018-12-19 16:59:05" Creator="UKHornP" Comments="" ID="c8e3c54fd6d41c48aafcfac602044afa">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2018-12-21 10:56:44" Creator="UKHornP" Comments="" ID="4e18aa4f73b1e549d7703285de2e644b">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
-    <Library_Version>2.0.0.7</Library_Version>
+    <Library_Version>2.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>P:\PeteHorn\AssertAPI Builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Closing down the build assert UI front panel correctly</Release_Notes>
+      <Release_Notes>Added default comparison values</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

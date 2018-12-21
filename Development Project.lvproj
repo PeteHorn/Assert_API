@@ -45,16 +45,6 @@
 				<Item Name="String Filter Tester.lvclass" Type="LVClass" URL="../Unit Tests/Filter Configurations Tests/String Filter Tester/String Filter Tester/String Filter Tester.lvclass"/>
 				<Item Name="Time Filter Tester.lvclass" Type="LVClass" URL="../Unit Tests/Filter Configurations Tests/Time Filter Tester/Time Filter Tester/Time Filter Tester.lvclass"/>
 			</Item>
-			<Item Name="Main Display" Type="Folder">
-				<Item Name="Configure Filter Unit Test" Type="Folder">
-					<Item Name="Configure Filter Unit Test.lvclass" Type="LVClass" URL="../Unit Tests/Filter Testing/Configure Filter Unit Test/Configure Filter Unit Test.lvclass"/>
-				</Item>
-				<Item Name="Remove Filter Unit Test" Type="Folder">
-					<Item Name="Remove Filter Unit Test.lvclass" Type="LVClass" URL="../Unit Tests/Filter Testing/Remove Filter/Remove Filter Unit Test.lvclass"/>
-				</Item>
-				<Item Name="FilterTest Setup.vi" Type="VI" URL="../Unit Tests/Filter Testing/FilterTest Setup.vi"/>
-				<Item Name="Get Filter Name Array.vi" Type="VI" URL="../Unit Tests/Filter Testing/Get Filter Name Array.vi"/>
-			</Item>
 			<Item Name="Timing Engine" Type="Folder">
 				<Item Name="Timing Engine Tester.lvlib" Type="Library" URL="../Unit Tests/Timing Engine Tester/Timing Engine Tester.lvlib"/>
 			</Item>
@@ -385,8 +375,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
-			<Item Name="Write Filter Configuration Array.vi" Type="VI" URL="../Core/Main Display/Main Display/Write Filter Configuration Array.vi"/>
-			<Item Name="Read Filter Configuration Array.vi" Type="VI" URL="../Core/Main Display/Main Display/Read Filter Configuration Array.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Quick Drop Plugin Test" Type="Source Distribution">
