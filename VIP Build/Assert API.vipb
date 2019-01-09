@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-01-08 15:10:23" Creator="UKHornP" Comments="" ID="aa6db868e05f73a30bc915f6e4319211">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-01-08 16:58:52" Creator="UKHornP" Comments="" ID="8177ac7cc5cfdaa6a1afcdd6c6c1ac06">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
-    <Library_Version>2.0.0.11</Library_Version>
+    <Library_Version>2.0.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>P:\PeteHorn\AssertAPI Builds</Library_Output_Folder>
@@ -32,8 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Changed the way the "Change Block Diagram Value" vi works so it can accept either vi ref or file path. VI ref is important so the UID gets updated correctly once the vi has been inserted.
-Also optimised the building of the list of tasks in the insert assert state machine.</Release_Notes>
+      <Release_Notes>Changed how the Confirm Diagram Reference case works in the Insert Assert state machine - the wire UID is passed into the command rather than done separately now.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
