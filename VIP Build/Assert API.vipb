@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-01-11 16:21:00" Creator="UKHornP" Comments="" ID="cfbdd8580bfeda1b7d07b41fc641046a">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-01-14 09:31:23" Creator="UKHornP" Comments="" ID="b686caee57b0f8e8cbc84412ca386ab5">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
-    <Library_Version>2.0.0.13</Library_Version>
+    <Library_Version>2.0.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>P:\PeteHorn\AssertAPI Builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Changed how the Confirm Diagram Reference case works in the Insert Assert state machine - the wire UID is passed into the command rather than done separately now.</Release_Notes>
+      <Release_Notes>Working on resolving issue with inserting the assert vi correctly inside/outside CDS</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
