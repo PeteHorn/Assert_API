@@ -51,10 +51,6 @@
 			<Item Name="Abort Application" Type="Folder">
 				<Item Name="Abort Application Unit Test.lvclass" Type="LVClass" URL="../Unit Tests/Abort Application/Abort Application Unit Test.lvclass"/>
 			</Item>
-			<Item Name="Determine Failure Action" Type="Folder">
-				<Item Name="DFA Tester.lvclass" Type="LVClass" URL="../Unit Tests/Determine Failure Action/DFA Tester.lvclass"/>
-				<Item Name="Determine Failure Action UT Main.vi" Type="VI" URL="../Unit Tests/Determine Failure Action/Determine Failure Action UT Main.vi"/>
-			</Item>
 		</Item>
 		<Item Name="Assert API Components.lvlib" Type="Library" URL="../Core/Assert API Components/Assert API Components.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
