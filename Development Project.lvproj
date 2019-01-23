@@ -424,7 +424,7 @@
 				<Property Name="Source[13].itemID" Type="Ref"></Property>
 				<Property Name="Source[13].type" Type="Str">VI</Property>
 				<Property Name="Source[14].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[14].itemID" Type="Ref">/My Computer/Plugins/Utility/Comparison Captions.ctl</Property>
+				<Property Name="Source[14].itemID" Type="Ref"></Property>
 				<Property Name="Source[14].type" Type="Str">VI</Property>
 				<Property Name="Source[15].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[15].itemID" Type="Ref">/My Computer/Plugins/Utility/Comparison Ctrl Refs.ctl</Property>
