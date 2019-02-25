@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-01-25 15:14:16" Creator="UKHornP" Comments="" ID="1ba8f181f1a0c5ec63d80211db356fc0">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-02-25 16:35:56" Creator="UKHornP" Comments="" ID="e3252a3043e1213fd55148dc938d5f77">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
     <Library_Version>2.0.0.22</Library_Version>
@@ -114,12 +114,6 @@
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Destination_Overrides>
-        <Path>Plugins/QD Code</Path>
-        <Destination>0</Destination>
-        <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
         <Path>Plugins/Templates</Path>
         <Destination>0</Destination>
         <Additional_Destination>true</Additional_Destination>
@@ -161,6 +155,12 @@
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Plugins/QD Code</Path>
+        <Destination>11</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -179,6 +179,12 @@
       </Exclusions>
       <Exclusions>
         <Path>Test Code</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>.gitignore</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Development Project.lvproj</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
