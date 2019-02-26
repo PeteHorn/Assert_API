@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-02-26 11:55:38" Creator="UKHornP" Comments="" ID="11df2f520bac7eadab5e2358aa432338">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-02-26 14:26:40" Creator="UKHornP" Comments="" ID="8bf48901035bd0ec283757a909a7304e">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
-    <Library_Version>2.0.0.26</Library_Version>
+    <Library_Version>2.0.0.27</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>\\zaphod\Public\PeteHorn\AssertAPI Builds</Library_Output_Folder>
@@ -32,7 +32,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Removed the cluster holding all the test configuration as everything is now moved to a class based structure.</Release_Notes>
+      <Release_Notes>Solving a bug where the test class was not passed through. Think this should be sorted now.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>

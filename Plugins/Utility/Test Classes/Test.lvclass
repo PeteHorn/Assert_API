@@ -48,13 +48,13 @@
 	</Item>
 	<Item Name="UI Control" Type="Folder">
 		<Item Name="Configure String Combo Box.vi" Type="VI" URL="../Configure String Combo Box.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#*!=!!?!!!/$&amp;2F=X1O&lt;(:D&lt;'&amp;T=Q!!#&amp;2F=X1A&lt;X6U!!!L!0%!!!!!!!!!!2:/&gt;7VF=GFD)%^Q:8*B&gt;'FP&lt;H-O9X2M!!Q!-0````]!)E"Q!!A!!1!'!"U!!"*0='6S982J&lt;WYA1X2S&lt;#"3:79!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!)%"Q!"Y!!!Y-6'6T&gt;#ZM&gt;G.M98.T!!!(6'6T&gt;#"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!=!#!!%!!1!#1-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!)!!!!#A!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;P!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!":!-0````]-2'6G986M&gt;#"U:8.U!!!C1(!!(A!!$AR5:8.U,GRW9WRB=X-!!!B5:8.U)'^V&gt;!!!+Q$R!!!!!!!!!!%74H6N:8*J9S"0='6S982J&lt;WZT,G.U&lt;!!-!$$`````!#*!=!!)!!%!"Q!&gt;!!!34X"F=G&amp;U;7^O)%.U=GQA5G6G!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#"!=!!?!!!/$&amp;2F=X1O&lt;(:D&lt;'&amp;T=Q!!"V2F=X1A;7Y!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!)!!E!"!!%!!I$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!#!!!!!I!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 		<Item Name="Get Child Classes.vi" Type="VI" URL="../Get Child Classes.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%&lt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#2!=!!?!!!/$&amp;2F=X1O&lt;(:D&lt;'&amp;T=Q!!#F2F=X1A&lt;X6U)$)!!"J!1!!"`````Q!&amp;$5.I;7RE)%.M98.T:8-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!A1(!!(A!!$AR5:8.U,GRW9WRB=X-!!!&gt;5:8.U)'FO!&amp;1!]!!-!!-!"!!'!!1!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!1!!!!!!%!#1!!!!!</Property>
@@ -250,6 +250,15 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+	</Item>
+	<Item Name="Set Test Class.vi" Type="VI" URL="../Set Test Class.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%4!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#*!=!!?!!!/$&amp;2F=X1O&lt;(:D&lt;'&amp;T=Q!!#&amp;2F=X1A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"2!-0````]+1WRB=X-A4G&amp;N:1!!)%"Q!"Y!!!Y-6'6T&gt;#ZM&gt;G.M98.T!!!(6'6T&gt;#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!%3!!!!E!!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Test Class String IDs.vi" Type="VI" URL="../Test Class String IDs.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!E!!!!!A!51$$`````#V.F=86F&lt;G.F)%F%!!A!5!!"!!!!!1!"!!!!!!</Property>
