@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-02-26 10:42:40" Creator="UKHornP" Comments="" ID="30f91cc7f8b108f8fb7eb03c61b25be7">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-12-17 15:58:13" Modified_Date="2019-02-26 11:08:04" Creator="UKHornP" Comments="" ID="33b4823dcfde5d9b7b6f0d5b5a352152">
   <Library_General_Settings>
     <Package_File_Name>PH_lib_Assert_API</Package_File_Name>
-    <Library_Version>2.0.0.25</Library_Version>
+    <Library_Version>2.0.0.26</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>\\zaphod\Public\PeteHorn\AssertAPI Builds</Library_Output_Folder>
