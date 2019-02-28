@@ -28,7 +28,6 @@
 		<Item Name="Plugin Unit Tests" Type="Folder">
 			<Item Name="Post Build Action Tester.lvclass" Type="LVClass" URL="../Unit Tests/Post Build Action Tester/Post Build Action Tester.lvclass"/>
 			<Item Name="Create New Assert Tester.lvclass" Type="LVClass" URL="../Unit Tests/Create New Assert/Create New Assert Tester.lvclass"/>
-			<Item Name="Find Disable Structure.lvclass" Type="LVClass" URL="../Unit Tests/Find Disable Structure/Find Disable Structure/Find Disable Structure.lvclass"/>
 			<Item Name="AddGet Parameters.lvclass" Type="LVClass" URL="../Unit Tests/AddGet Test Parameters/AddGet Parameters/AddGet Parameters.lvclass"/>
 			<Item Name="Build Eval Str Test Case.lvclass" Type="LVClass" URL="../Unit Tests/Build Evaluation String/Build Eval Str Test Case/Build Eval Str Test Case.lvclass"/>
 		</Item>
