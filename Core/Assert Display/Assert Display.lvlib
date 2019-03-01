@@ -10,6 +10,9 @@
 
 </Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
+	<Item Name="API" Type="Folder">
+		<Item Name="Is Display Active.vi" Type="VI" URL="../API/Is Display Active.vi"/>
+	</Item>
 	<Item Name="Component Actors" Type="Folder">
 		<Item Name="SubPanel UI&apos;s" Type="Folder">
 			<Item Name="Children" Type="Folder">

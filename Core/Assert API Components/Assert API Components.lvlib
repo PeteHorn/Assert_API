@@ -67,6 +67,9 @@
 		<Item Name="Base UI Actor.lvlib" Type="Library" URL="../../Base UI Actor/Base UI Actor.lvlib"/>
 		<Item Name="Log Assert Core.lvlib" Type="Library" URL="../Log Assert Core Components/Log Assert Core.lvlib"/>
 	</Item>
+	<Item Name="Process Monitor" Type="Folder">
+		<Item Name="Process Monitor.lvlib" Type="Library" URL="../../../Process Monitor/Process Monitor.lvlib"/>
+	</Item>
 	<Item Name="Public" Type="Folder">
 		<Item Name="Components" Type="Folder">
 			<Item Name="Failure Actions.ctl" Type="VI" URL="../Failure Actions.ctl"/>
