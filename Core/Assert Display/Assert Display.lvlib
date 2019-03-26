@@ -11,6 +11,7 @@
 </Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="API" Type="Folder">
+		<Item Name="Get Display Queue.vi" Type="VI" URL="../API/Get Display Queue.vi"/>
 		<Item Name="Is Display Active.vi" Type="VI" URL="../API/Is Display Active.vi"/>
 	</Item>
 	<Item Name="Component Actors" Type="Folder">
